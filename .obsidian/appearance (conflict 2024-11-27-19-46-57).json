@@ -1,0 +1,10 @@
+{
+  "accentColor": "#1eb899",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "AvantGarde Md BT,Ubuntu",
+  "textFontFamily": "Georgia,Noto Sans,Consolas,Bahnschrift",
+  "monospaceFontFamily": "AvantGarde Md BT",
+  "baseFontSizeAction": true,
+  "baseFontSize": 16
+}

@@ -1,0 +1,10 @@
+{
+  "accentColor": "#2c5891",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "Comic Sans MS",
+  "textFontFamily": "Charter,Georgia,Baskerville",
+  "monospaceFontFamily": "AvantGarde Md BT",
+  "baseFontSizeAction": true,
+  "baseFontSize": 16
+}

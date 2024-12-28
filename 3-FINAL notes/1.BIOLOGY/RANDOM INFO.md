@@ -1,0 +1,4 @@
+- In general, animal cells are eukaryotic which means they have a nucleus. Not all animal cells do have a nucleus, however, the red blood cells, for example, do not have a nucleus since the cells do not need to replicate in meiosis or mitosis. They do not need a nucleus. The lack of a nucleus allows them to hold more hemoglobin within the cell.
+- the nerve cells never divide or multiply and they remain the same in their numbers, which are once formed during birth.
+- Lysosomes are not found in plants, but Vacuoles perform the role of lysosomes in plant cells.
+- cell ka skeltetal system Microtubles.

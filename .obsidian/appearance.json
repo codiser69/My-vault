@@ -1,0 +1,13 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "change-folder-color",
+    "data",
+    "extended-colorschemes",
+    "gradient-header"
+  ],
+  "interfaceFontFamily": "Ubuntu",
+  "textFontFamily": "Georgia",
+  "monospaceFontFamily": "AvantGarde Md BT"
+}

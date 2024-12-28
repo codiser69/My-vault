@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"3-FINAL notes/1.BIOLOGY\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2354185
+      }
+    },
+    {
+      "query": "path:\"3-FINAL notes/2.POLITY\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 403337
+      }
+    },
+    {
+      "query": "path:\"3-FINAL notes/History\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13502729
+      }
+    },
+    {
+      "query": "path:\"3-FINAL notes/Geography\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10117667
+      }
+    },
+    {
+      "query": "path:\"3-FINAL notes/English\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 620399
+      }
+    },
+    {
+      "query": "path:\"1-daily notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15125355
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 1.12083333333333,
+  "lineSizeMultiplier": 2.14166666666667,
+  "collapse-forces": true,
+  "centerStrength": 0.322916666666667,
+  "repelStrength": 6.97916666666667,
+  "linkStrength": 1,
+  "linkDistance": 134,
+  "scale": 0.5246372177597458,
+  "close": true
+}

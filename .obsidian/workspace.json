@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "461b4c2ea77fdacb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eb36ba24bd7fee3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c30b1f4fb22a9546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-FINAL notes/1.BIOLOGY/4. CELL STRUCTURE ➡ Cytology.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. CELL STRUCTURE ➡ Cytology"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae0ca424716f070a",
+    "type": "split",
+    "children": [
+      {
+        "id": "25fd110d052f3866",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f24b5f1959de36b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b07337caf00deec8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c807b41e6893debe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304,
+    "collapsed": true
+  },
+  "right": {
+    "id": "17067fe97fe0ec0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a20d0411266e7949",
+        "type": "tabs",
+        "dimension": 51.57384987893462,
+        "children": [
+          {
+            "id": "f0d1c4b7c86c0271",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "0e406ef792861931",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3-FINAL notes/1.BIOLOGY/4. CELL STRUCTURE ➡ Cytology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 4. CELL STRUCTURE ➡ Cytology"
+            }
+          },
+          {
+            "id": "53c537eb4d59e98f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "18bcba4f5120c8ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3-FINAL notes/1.BIOLOGY/4. CELL STRUCTURE ➡ Cytology.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 4. CELL STRUCTURE ➡ Cytology"
+            }
+          },
+          {
+            "id": "28236ad41b18d056",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6eec9666dfff17eb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3-FINAL notes/1.BIOLOGY/4. CELL STRUCTURE ➡ Cytology.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4. CELL STRUCTURE ➡ Cytology"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6993a2b8e6c43295",
+        "type": "tabs",
+        "dimension": 48.42615012106538,
+        "children": [
+          {
+            "id": "8498b7e757e1251b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "smart-random-note:Open Random Note from Search": false
+    }
+  },
+  "active": "c30b1f4fb22a9546",
+  "lastOpenFiles": [
+    "[Pasted image 20241228151134.png.md",
+    "3-FINAL notes/1.BIOLOGY/4. CELL STRUCTURE ➡ Cytology.md",
+    "assests/Pasted image 20241228151134.png",
+    "3-FINAL notes/1.BIOLOGY/3. Taxonomy !!!!!.md",
+    "1-daily notes/2024-12-28.md",
+    "assests/Pasted image 20241228140807.png",
+    "assests/Pasted image 20241228102327.png",
+    "assests/Pasted image 20241228101810.png",
+    "3-FINAL notes/1.BIOLOGY/RANDOM INFO.md",
+    "1-daily notes/2024-12-27.md",
+    "README.md",
+    "My-Vault-Omega",
+    "assests/Pasted image 20241227212757.png",
+    "1-daily notes/2024-12-24.md",
+    "template",
+    "1-daily notes/2024-12-11.md",
+    "1-daily notes/2024-12-22.md",
+    "1-daily notes/2024-12-27 1.md",
+    "assests/Pasted image 20241227210309.png",
+    "assests/Pasted image 20241227163633.png",
+    "assests/Pasted image 20241227163028.png",
+    "assests/Pasted image 20241227143857.png",
+    "assests/Pasted image 20241227143851.png",
+    "1-daily notes/2024-11-12.md",
+    "1-daily notes/2024-12-26.md",
+    "Custom checkbox.md"
+  ]
+}

@@ -1,25 +1,25 @@
 {
   "main": {
-    "id": "461b4c2ea77fdacb",
+    "id": "5cb04e070796f9bd",
     "type": "split",
     "children": [
       {
-        "id": "5ea9fce511f0ff5d",
+        "id": "2dde4d08e80cbbe7",
         "type": "tabs",
         "children": [
           {
-            "id": "f68d8e3ed2930f49",
+            "id": "d219c6a08e0dee65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-FINAL notes/1.BIOLOGY/4. CELL STRUCTURE ➡ Cytology.md",
-                "mode": "preview",
+                "file": "1-daily notes/2024-12-28.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. CELL STRUCTURE ➡ Cytology"
+              "title": "2024-12-28"
             }
           }
         ]
@@ -28,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ae0ca424716f070a",
+    "id": "0cf38a0bb251cd9e",
     "type": "split",
     "children": [
       {
-        "id": "25fd110d052f3866",
+        "id": "f99153a8730c6f6c",
         "type": "tabs",
         "children": [
           {
-            "id": "f24b5f1959de36b9",
+            "id": "1ad61ff90b39b1f8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "b07337caf00deec8",
+            "id": "94caa06d217b48fa",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "c807b41e6893debe",
+            "id": "66a390a8ddc1253c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,34 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304
+    "width": 300
   },
   "right": {
-    "id": "17067fe97fe0ec0e",
+    "id": "3e938056f8364353",
     "type": "split",
     "children": [
       {
-        "id": "a20d0411266e7949",
+        "id": "dd5e28846e80a478",
         "type": "tabs",
-        "dimension": 51.57384987893462,
         "children": [
           {
-            "id": "f0d1c4b7c86c0271",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
-          },
-          {
-            "id": "0e406ef792861931",
+            "id": "cd104836c5762107",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-FINAL notes/1.BIOLOGY/4. CELL STRUCTURE ➡ Cytology.md",
+                "file": "1-daily notes/2024-12-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,35 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4. CELL STRUCTURE ➡ Cytology"
+              "title": "Backlinks for 2024-12-28"
             }
           },
           {
-            "id": "53c537eb4d59e98f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "18bcba4f5120c8ce",
+            "id": "6f9463595515d504",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-FINAL notes/1.BIOLOGY/4. CELL STRUCTURE ➡ Cytology.md",
+                "file": "1-daily notes/2024-12-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 4. CELL STRUCTURE ➡ Cytology"
+              "title": "Outgoing links from 2024-12-28"
             }
           },
           {
-            "id": "28236ad41b18d056",
+            "id": "8fc6720791e1f868",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -156,26 +135,19 @@
             }
           },
           {
-            "id": "6eec9666dfff17eb",
+            "id": "2917f66ed0a9809e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-FINAL notes/1.BIOLOGY/4. CELL STRUCTURE ➡ Cytology.md"
+                "file": "1-daily notes/2024-12-28.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 4. CELL STRUCTURE ➡ Cytology"
+              "title": "Outline of 2024-12-28"
             }
-          }
-        ]
-      },
-      {
-        "id": "6993a2b8e6c43295",
-        "type": "tabs",
-        "dimension": 48.42615012106538,
-        "children": [
+          },
           {
-            "id": "8498b7e757e1251b",
+            "id": "c60cf42668d65112",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -188,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -204,33 +176,6 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "f68d8e3ed2930f49",
-  "lastOpenFiles": [
-    "1-daily notes/2024-12-28.md",
-    "3-FINAL notes/1.BIOLOGY/4. CELL STRUCTURE ➡ Cytology.md",
-    "Custom checkbox.md",
-    "[Pasted image 20241228151134.png.md",
-    "assests/Pasted image 20241228151134.png",
-    "3-FINAL notes/1.BIOLOGY/3. Taxonomy !!!!!.md",
-    "assests/Pasted image 20241228140807.png",
-    "assests/Pasted image 20241228102327.png",
-    "assests/Pasted image 20241228101810.png",
-    "3-FINAL notes/1.BIOLOGY/RANDOM INFO.md",
-    "1-daily notes/2024-12-27.md",
-    "README.md",
-    "My-Vault-Omega",
-    "assests/Pasted image 20241227212757.png",
-    "1-daily notes/2024-12-24.md",
-    "template",
-    "1-daily notes/2024-12-11.md",
-    "1-daily notes/2024-12-22.md",
-    "1-daily notes/2024-12-27 1.md",
-    "assests/Pasted image 20241227210309.png",
-    "assests/Pasted image 20241227163633.png",
-    "assests/Pasted image 20241227163028.png",
-    "assests/Pasted image 20241227143857.png",
-    "assests/Pasted image 20241227143851.png",
-    "1-daily notes/2024-11-12.md",
-    "1-daily notes/2024-12-26.md"
-  ]
+  "active": "d219c6a08e0dee65",
+  "lastOpenFiles": []
 }

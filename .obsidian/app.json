@@ -1,12 +1,12 @@
 {
   "promptDelete": false,
-  "newFileLocation": "root",
+  "newFileLocation": "current",
   "newFileFolderPath": "4. FINAL notes",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A3",
-    "landscape": true,
+    "landscape": false,
     "margin": "0",
     "downscalePercent": 100
   },

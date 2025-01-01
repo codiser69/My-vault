@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-daily notes/2025-01-01.md",
+                "file": "3-FINAL notes/1.BIOLOGY/5.Tissue.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-01"
+              "title": "5.Tissue"
             }
           }
         ]
@@ -150,7 +150,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -163,9 +162,10 @@
   },
   "active": "53315df19701339c",
   "lastOpenFiles": [
+    "3-FINAL notes/1.BIOLOGY/4. CELL STRUCTURE ➡ Cytology.md",
     "3-FINAL notes/1.BIOLOGY/5.Tissue.md",
     "1-daily notes/2025-01-01.md",
-    "3-FINAL notes/1.BIOLOGY/4. CELL STRUCTURE ➡ Cytology.md",
+    "assests/Pasted image 20241228140807.png",
     "1-daily notes/2024-12-29.md",
     "1-daily notes/2024-12-28.md",
     "1-daily notes/2024-12-27.md",
@@ -191,7 +191,6 @@
     "3-FINAL notes/2.POLITY/1. introduction.md",
     "3-FINAL notes/2.POLITY/4. Salient features of Indian constitution.md",
     "3-FINAL notes/History/1.Ancient history/Periods of HISTORY.md",
-    "3-FINAL notes/History/1.Ancient history/Indus Valley.md",
     "assests/Tilly_Bagshawe_Sidney_Sheldon_-_The_Phoenix.epub",
     "Untitled.canvas",
     "assests/Ancient Indian Calendar.pdf",
@@ -204,7 +203,6 @@
     "assests/Screenshot_20241208-091225_Obsidian.png",
     "assests/Screenshot_20241207-155825.jpeg",
     "assests/Screenshot_20241207-155030.jpeg",
-    "assests/Screenshot_20241207-160044.jpeg",
     "assests/Neon articles.pdf",
     "Excalidraw/Tt.excalidraw",
     "assests/Biology Godfather Neon Books export_compressed (1).pdf",

@@ -1,5 +1,5 @@
 {
-  "cssTheme": "",
+  "cssTheme": "AnuPpuccin",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "change-folder-color",
@@ -9,5 +9,7 @@
   ],
   "interfaceFontFamily": "Ubuntu",
   "textFontFamily": "Georgia",
-  "monospaceFontFamily": "AvantGarde Md BT"
+  "monospaceFontFamily": "AvantGarde Md BT",
+  "baseFontSizeAction": true,
+  "baseFontSize": 19
 }

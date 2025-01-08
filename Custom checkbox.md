@@ -1,26 +1,26 @@
 Nicole van der hoeven
-- [X] 
-- [!] 
-- [?]  
-- [>] 
-- [<] 
-- [-] 
-- [/] 
-- [n] 
-- [l] 
-- [*] 
-- [i] 
-- [I] 
-- [S] 
-- [p] 
-- [c] 
-- [b] 
-- ["] 
-- [u] 
-- [d] 
-- [w] 
-- [k] 
-- [f] .
+- [X] FKKJGJN
+- [!] GKLFDG
+- [?]  DKLMFG
+- [>] F;G
+- [<] KGNDF
+- [-] FGDJK
+- [/] FGNDF
+- [n] KGNDF
+- [l] FNGD
+- [*] GFDKLG
+- [i] FJGDF
+- [I] LGLDFG
+- [S] FGMLDKF
+- [p] FJGLKFD
+- [c] JFJDF
+- [b] NDLS
+- ["] JGDOI
+- [u] FDLJGDF
+- [d] FBLF
+- [w] FNGDFN
+- [k] FNKFDJN
+- [f] .NKFJNGD
 - [ ] ![[Screenshot_20241208-091225_Obsidian.png]]
 
 ## speech bubble

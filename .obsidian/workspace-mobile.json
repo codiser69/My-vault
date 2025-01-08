@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-daily notes/2025-01-01.md",
-                "mode": "source",
+                "file": "COUNTDOWN.md",
+                "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-01-01"
+              "title": "COUNTDOWN"
             }
           }
         ]
@@ -163,8 +163,11 @@
   },
   "active": "53315df19701339c",
   "lastOpenFiles": [
-    "3-FINAL notes/1.BIOLOGY/5.Tissue.md",
+    "1-daily notes/2025-01-06.md",
+    "COUNTDOWN.md",
+    "1-daily notes/2025-01-07.md",
     "1-daily notes/2025-01-01.md",
+    "3-FINAL notes/1.BIOLOGY/5.Tissue.md",
     "3-FINAL notes/1.BIOLOGY/4. CELL STRUCTURE ➡ Cytology.md",
     "1-daily notes/2024-12-29.md",
     "1-daily notes/2024-12-28.md",
@@ -189,9 +192,6 @@
     "3-FINAL notes/2.POLITY/6. Union State and territories.md",
     "3-FINAL notes/2.POLITY/5. premable or Prastavna.md",
     "3-FINAL notes/2.POLITY/1. introduction.md",
-    "3-FINAL notes/2.POLITY/4. Salient features of Indian constitution.md",
-    "3-FINAL notes/History/1.Ancient history/Periods of HISTORY.md",
-    "3-FINAL notes/History/1.Ancient history/Indus Valley.md",
     "assests/Tilly_Bagshawe_Sidney_Sheldon_-_The_Phoenix.epub",
     "Untitled.canvas",
     "assests/Ancient Indian Calendar.pdf",

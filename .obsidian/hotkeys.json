@@ -14,5 +14,15 @@
       ],
       "key": "H"
     }
-  ]
+  ],
+  "contribution-graph:create-graph": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "obsidian-excalidraw-plugin:save": []
 }

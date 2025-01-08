@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COUNTDOWN.md",
-                "mode": "preview",
+                "file": "1-daily notes/2025-01-08.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COUNTDOWN"
+              "title": "2025-01-08"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COUNTDOWN.md",
+                "file": "1-daily notes/2025-01-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for COUNTDOWN"
+              "title": "Backlinks for 2025-01-08"
             }
           },
           {
@@ -157,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313
+    "width": 313,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,8 +175,8 @@
   },
   "active": "00d710c1363fff8e",
   "lastOpenFiles": [
-    "1-daily notes/2025-01-08.md",
     "COUNTDOWN.md",
+    "1-daily notes/2025-01-08.md",
     "1-daily notes/2025-01-07.md",
     "1-daily notes/2025-01-05.md",
     "3-FINAL notes/1.BIOLOGY/5.Tissue.md",

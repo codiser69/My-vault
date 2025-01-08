@@ -40,5 +40,6 @@
     "highlightr-plugin:Red",
     "highlightr-plugin:Yellow"
   ],
-  "readableLineLength": false
+  "readableLineLength": false,
+  "focusNewTab": true
 }

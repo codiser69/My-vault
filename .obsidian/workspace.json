@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "696b3b571caadb9b",
+        "id": "9615786d9705cf7a",
         "type": "tabs",
         "children": [
           {
-            "id": "00d710c1363fff8e",
+            "id": "1fde8c9161df52ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-daily notes/2025-01-10.md",
-                "mode": "source",
+                "file": "1-Daily/2025-01-11.md",
+                "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-01-10"
+              "title": "2025-01-11"
+            }
+          },
+          {
+            "id": "84ccede8af93d1a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COUNTDOWN.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "COUNTDOWN"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +89,21 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247
+  },
+  "right": {
+    "id": "3e938056f8364353",
+    "type": "split",
+    "children": [
+      {
+        "id": "73c043d63c1e0181",
+        "type": "tabs",
+        "children": [
           {
             "id": "c60cf42668d65112",
             "type": "leaf",
@@ -85,15 +115,7 @@
             }
           }
         ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "3e938056f8364353",
-    "type": "split",
-    "children": [
+      },
       {
         "id": "dd5e28846e80a478",
         "type": "tabs",
@@ -104,17 +126,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-daily notes/2025-01-08.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "COUNTDOWN.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-01-08"
+              "title": "Backlinks for COUNTDOWN"
             }
           },
           {
@@ -123,11 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "COUNTDOWN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from COUNTDOWN"
             }
           },
           {
@@ -148,17 +171,18 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "COUNTDOWN.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of COUNTDOWN"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 313,
-    "collapsed": true
+    "width": 313
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,41 +194,44 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
-      "smart-random-note:Open Random Note from Search": false
+      "smart-random-note:Open Random Note from Search": false,
+      "excel:Create Excel File": false
     }
   },
-  "active": "00d710c1363fff8e",
+  "active": "84ccede8af93d1a2",
   "lastOpenFiles": [
-    "1-daily notes/2025-01-08.md",
+    "1-Daily/2025-01-06.md",
+    "1-Daily/2025-01-07.md",
+    "1-Daily/2025-01-08.md",
+    "1-Daily/2025-01-10.md",
+    "1-Daily/2025-01-11.md",
+    "template/daily note template.md",
     "COUNTDOWN.md",
-    "1-daily notes/2025-01-07.md",
-    "1-daily notes/2025-01-05.md",
-    "3-FINAL notes/1.BIOLOGY/5.Tissue.md",
-    "1-daily notes/2025-01-06.md",
-    "1-daily notes/2024-12-30.md",
-    "1-daily notes/2025-01-01.md",
-    "1-daily notes/2024-12-28.md",
-    "1-daily notes/2024-12-27.md",
-    "1-daily notes/2024-12-26.md",
-    "1-daily notes/2024-12-29.md",
-    "1-daily notes/2024-12-31.md",
-    "1-daily notes/2025-01-03.md",
-    "1-daily notes/2025-01-04.md",
-    "1-daily notes/2025-01-02.md",
+    "1-Daily/2025-01-03.md",
+    "1-Daily/2025-01-04.md",
+    "1-Daily/2025-01-05.md",
+    "subjects lec-Log/Math.md",
+    "subjects lec-Log/English.md",
     "Custom checkbox.md",
-    "1-daily notes/2024-12-24.md",
-    "1-daily notes/2024-12-03.md",
-    "3-FINAL notes/2.POLITY/5. premable or Prastavna.md",
-    "3-FINAL notes/1.BIOLOGY/1. what is biology!!.md",
+    "subjects lec-Log/reasoning.md",
     "3-FINAL notes/1.BIOLOGY/4. CELL STRUCTURE ➡ Cytology.md",
+    "3-FINAL notes/1.BIOLOGY/1. what is biology!!.md",
+    "excel",
+    "1-daily notes/2025-01-09.md",
+    "subjects lec-Log",
+    "3-FINAL notes/1.BIOLOGY/5.Tissue.md",
+    "1-Daily/2024-12-30.md",
+    "1-Daily/2025-01-01.md",
+    "1-Daily/2024-12-28.md",
+    "1-Daily/2024-12-27.md",
+    "1-Daily/2024-12-26.md",
+    "1-Daily/2024-12-29.md",
+    "1-Daily/2024-12-31.md",
+    "1-Daily/2025-01-02.md",
     "assests/Pasted image 20241228151134.png",
-    "3-FINAL notes/1.BIOLOGY/INDEX for Biology.md",
-    "3-FINAL notes/1.BIOLOGY/3. Taxonomy !!!!!.md",
-    "3-FINAL notes/1.BIOLOGY/2. universe &  Evolution !!!!.md",
     "assests/Pasted image 20241227210309.png",
     "assests/Pasted image 20241228102327.png",
     "assests/Pasted image 20241229100708.png",
-    "3-FINAL notes/1.BIOLOGY/RANDOM INFO.md",
     "assests/Pasted image 20241229092353.png",
     "assests/Pasted image 20241229091141.png",
     "assests/Pasted image 20241229090724.png"

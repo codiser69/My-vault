@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Daily/2025-01-11.md",
-                "mode": "source",
+                "file": "COUNTDOWN.md",
+                "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-01-11"
+              "title": "COUNTDOWN"
             }
           }
         ]
@@ -163,11 +163,10 @@
   },
   "active": "53315df19701339c",
   "lastOpenFiles": [
-    "subjects lec-Log/English.md",
-    "COUNTDOWN.md",
     "1-daily notes/2025-01-10.md",
     "1-daily notes/2025-01-10 (conflict 2025-01-10-15-51-27).md",
     "3-FINAL notes/1.BIOLOGY/1. what is biology!!.md",
+    "COUNTDOWN.md",
     "1-daily notes/2025-01-07.md",
     "1-daily notes/2025-01-08.md",
     "1-daily notes/2025-01-09.md",
@@ -193,6 +192,7 @@
     "1-daily notes/2024-12-24.md",
     "3-FINAL notes/2.POLITY/3. Making Of constitution.md",
     "assests/Screenshot_20241125-154106.jpeg",
+    "3-FINAL notes/2.POLITY/2. Constitution development.md",
     "assests/Tilly_Bagshawe_Sidney_Sheldon_-_The_Phoenix.epub",
     "Untitled.canvas",
     "assests/Ancient Indian Calendar.pdf",

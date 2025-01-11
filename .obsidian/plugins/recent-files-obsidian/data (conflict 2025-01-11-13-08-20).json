@@ -1,20 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-01-11",
-      "path": "1-Daily/2025-01-11.md"
-    },
-    {
-      "basename": "English",
-      "path": "subjects lec-Log/English.md"
-    },
-    {
-      "basename": "1. what is biology!!",
-      "path": "3-FINAL notes/1.BIOLOGY/1. what is biology!!.md"
-    },
-    {
       "basename": "COUNTDOWN",
       "path": "COUNTDOWN.md"
+    },
+    {
+      "basename": "2025-01-11",
+      "path": "1-Daily/2025-01-11.md"
     },
     {
       "basename": "Custom checkbox",
@@ -57,12 +49,20 @@
       "path": "subjects lec-Log/Math.md"
     },
     {
+      "basename": "English",
+      "path": "subjects lec-Log/English.md"
+    },
+    {
       "basename": "reasoning",
       "path": "subjects lec-Log/reasoning.md"
     },
     {
       "basename": "4. CELL STRUCTURE ➡ Cytology",
       "path": "3-FINAL notes/1.BIOLOGY/4. CELL STRUCTURE ➡ Cytology.md"
+    },
+    {
+      "basename": "1. what is biology!!",
+      "path": "3-FINAL notes/1.BIOLOGY/1. what is biology!!.md"
     },
     {
       "basename": "Drawing 2025-01-10 12.51.11.excalidraw",
@@ -195,6 +195,10 @@
     {
       "basename": "Pasted image 20241227163633",
       "path": "assests/Pasted image 20241227163633.png"
+    },
+    {
+      "basename": "Index of Polity",
+      "path": "3-FINAL notes/2.POLITY/Index of Polity.md"
     }
   ],
   "omittedPaths": [],

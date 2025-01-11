@@ -1,6 +1,6 @@
 ```tracker
 searchType: frontmatter
-seachTarget: meditation
+seachTarget: countdown
 folder: 1-Daily
 month: 
 

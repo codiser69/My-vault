@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COUNTDOWN.md",
+                "file": "1-Daily/2025-01-11.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "COUNTDOWN"
+              "title": "2025-01-11"
             }
           }
         ],
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COUNTDOWN.md",
+                "file": "1-Daily/2025-01-11.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for COUNTDOWN"
+              "title": "Backlinks for 2025-01-11"
             }
           },
           {
@@ -200,22 +200,24 @@
   },
   "active": "84ccede8af93d1a2",
   "lastOpenFiles": [
-    "1-Daily/2025-01-06.md",
-    "1-Daily/2025-01-07.md",
-    "1-Daily/2025-01-08.md",
-    "1-Daily/2025-01-10.md",
+    "3-FINAL notes/1.BIOLOGY/1. what is biology!!.md",
     "1-Daily/2025-01-11.md",
-    "template/daily note template.md",
+    "1-daily notes/2025-01-11.md",
+    "subjects lec-Log/English.md",
+    "1-daily notes",
     "COUNTDOWN.md",
+    "Custom checkbox.md",
+    "1-Daily/2025-01-10.md",
+    "template/daily note template.md",
     "1-Daily/2025-01-03.md",
     "1-Daily/2025-01-04.md",
     "1-Daily/2025-01-05.md",
+    "1-Daily/2025-01-06.md",
+    "1-Daily/2025-01-07.md",
+    "1-Daily/2025-01-08.md",
     "subjects lec-Log/Math.md",
-    "subjects lec-Log/English.md",
-    "Custom checkbox.md",
     "subjects lec-Log/reasoning.md",
     "3-FINAL notes/1.BIOLOGY/4. CELL STRUCTURE ➡ Cytology.md",
-    "3-FINAL notes/1.BIOLOGY/1. what is biology!!.md",
     "excel",
     "1-daily notes/2025-01-09.md",
     "subjects lec-Log",
@@ -227,7 +229,6 @@
     "1-Daily/2024-12-26.md",
     "1-Daily/2024-12-29.md",
     "1-Daily/2024-12-31.md",
-    "1-Daily/2025-01-02.md",
     "assests/Pasted image 20241228151134.png",
     "assests/Pasted image 20241227210309.png",
     "assests/Pasted image 20241228102327.png",

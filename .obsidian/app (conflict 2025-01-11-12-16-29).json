@@ -41,6 +41,5 @@
     "highlightr-plugin:Yellow"
   ],
   "readableLineLength": false,
-  "focusNewTab": true,
-  "propertiesInDocument": "hidden"
+  "focusNewTab": true
 }

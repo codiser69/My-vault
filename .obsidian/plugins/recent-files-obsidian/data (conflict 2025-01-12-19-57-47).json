@@ -5,20 +5,16 @@
       "path": "1-Daily/2025-01-12.md"
     },
     {
-      "basename": "2025-01-13",
-      "path": "1-Daily/2025-01-13.md"
-    },
-    {
-      "basename": "2025-01-11",
-      "path": "1-Daily/2025-01-11.md"
-    },
-    {
       "basename": "COUNTDOWN",
       "path": "COUNTDOWN.md"
     },
     {
       "basename": "English",
       "path": "subjects lec-Log/English.md"
+    },
+    {
+      "basename": "2025-01-11",
+      "path": "1-Daily/2025-01-11.md"
     },
     {
       "basename": "daily note template",
@@ -199,6 +195,10 @@
     {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "Pasted image 20241227163633",
+      "path": "assests/Pasted image 20241227163633.png"
     }
   ],
   "omittedPaths": [],

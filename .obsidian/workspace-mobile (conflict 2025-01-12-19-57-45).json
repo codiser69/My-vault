@@ -14,9 +14,9 @@
               "type": "markdown",
               "state": {
                 "file": "1-Daily/2025-01-12.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "2025-01-12"
@@ -164,9 +164,8 @@
   },
   "active": "53315df19701339c",
   "lastOpenFiles": [
-    "1-Daily/2025-01-11.md",
-    "1-Daily/2025-01-12.md",
     "COUNTDOWN.md",
+    "1-Daily/2025-01-11.md",
     "subjects lec-Log/English.md",
     "1-daily notes/2025-01-10.md",
     "1-daily notes/2025-01-10 (conflict 2025-01-10-15-51-27).md",
@@ -193,6 +192,7 @@
     "3-FINAL notes/1.BIOLOGY/4. CELL STRUCTURE ➡ Cytology (conflict 2024-12-26-10-38-56).md",
     "1-daily notes/2024-12-25.md",
     "Screenshot_20241125-173356.jpeg.md",
+    "1-daily notes/2024-12-24.md",
     "assests/Screenshot_20241125-154106.jpeg",
     "assests/Tilly_Bagshawe_Sidney_Sheldon_-_The_Phoenix.epub",
     "Untitled.canvas",

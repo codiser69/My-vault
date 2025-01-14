@@ -1,0 +1,16 @@
+#mock
+#CGL-Tier-1
+#CGL-Tier-2
+#CHSL-Tier-1
+#CHSL-Tier-2
+#MTS
+#NTPC
+#RRB-Group-d
+#pyq-2024
+#pyq-2023
+#pyq-2022
+#pyq-2021
+#pyq-2020
+#pyq-2019
+#bestscore
+#

@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-01-15",
+      "path": "1-Daily/2025-01-15.md"
+    },
+    {
+      "basename": "2025-01-13",
+      "path": "1-Daily/2025-01-13.md"
+    },
+    {
       "basename": "2025-01-14",
       "path": "1-Daily/2025-01-14.md"
     },
     {
       "basename": "English",
       "path": "subjects lec-Log/English.md"
-    },
-    {
-      "basename": "2025-01-13",
-      "path": "1-Daily/2025-01-13.md"
     },
     {
       "basename": "2025-01-12",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-12-11",
       "path": "1-Daily/2024-12-11.md"
-    },
-    {
-      "basename": "2024-12-22",
-      "path": "1-Daily/2024-12-22.md"
     }
   ],
   "omittedPaths": [],

@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "797fd585651de0ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "651d79ddd8b8dde9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebe9145356451c4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-FINAL notes/History/1.Ancient history/Periods of HISTORY.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Periods of HISTORY"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c978b5a265a67d5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "79f2292e19f76eed",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "54f4aa28eaee58fb",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "federation",
+            "matchingCase": true,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "98d41bce3de0598d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "e42c2f9bc69ed4ed",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "bf9addba67daa912",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fb296f1827c827ac",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "3-FINAL notes/1.BIOLOGY/1. what is biology!!.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "95abdd373f89bceb",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Vvhj.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "fb27b31f1ae48f86",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Vvhj.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "a2116b413225d808",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "61eb006e36d617a0",
+        "type": "leaf",
+        "state": {
+          "type": "timer-view",
+          "state": {},
+          "icon": "timer",
+          "title": "Timer"
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "excel:Create Excel File": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "ebe9145356451c4e",
+  "lastOpenFiles": [
+    "3-FINAL notes/History/1.Ancient history/Ancient history of India.md",
+    "3-FINAL notes/History/1.Introduction.md",
+    "3-FINAL notes/History/1.Ancient history/Indus Valley Civilization.md",
+    "1-Daily/2025-01-27.md",
+    "3-FINAL notes/History/1.Ancient history/Periods of HISTORY.md",
+    "assests/Pasted image 20250122224328.png",
+    "assests/Screenshot_20250126-182905~2 1.jpeg",
+    "assests/Pasted image 20250126192553.png",
+    "assests/Pasted image 20250126191657.png",
+    "assests/image.png",
+    "assests/Screenshot_20250126-181702.jpeg",
+    "3-FINAL notes/History/1.Ancient history/Vedic Civilization.md",
+    "assests/Pasted image 20250126195338.png",
+    "assests/Pasted image 20250126195108.png",
+    "1-Daily/2025-01-26.md",
+    "assests/Screenshot_20250126-182905~2.jpeg",
+    "3-FINAL notes/History/1.Ancient history/Screenshot_20250126-182905~2.jpeg.md",
+    "assests/image.jpg",
+    "1-Daily/2025-01-25.md",
+    "Untitled.canvas",
+    "Custom checkbox.md",
+    "COUNTDOWN.md",
+    "3-FINAL notes/History/Index of HiSTORY.md",
+    "3-FINAL notes/2.POLITY/4. Salient features of Indian constitution.md",
+    "3-FINAL notes/2.POLITY/1. introduction.md",
+    "excel/Excel 2025-01-25 15.03.57.sheet.md",
+    "1-Daily/2025-01-23.md",
+    "3-FINAL notes/History/1.Ancient history/Indus Valley.md",
+    "3-FINAL notes/2.POLITY/7.1 Citizenship (for SSC).md",
+    "1-Daily/2025-01-22.md",
+    "3-FINAL notes/2.POLITY/7.2 Citizenship (extras).md",
+    "1-Daily/2025-01-21.md",
+    "3-FINAL notes/1.BIOLOGY/4. CELL STRUCTURE ➡ Cytology.md",
+    "3-FINAL notes/1.BIOLOGY/5.Tissue.md",
+    "3-FINAL notes/1.BIOLOGY/1. what is biology!!.md",
+    "3-FINAL notes/2.POLITY/5. preamble or Prastavna.md",
+    "assests/Tilly_Bagshawe_Sidney_Sheldon_-_The_Phoenix.epub",
+    "assests/Ancient Indian Calendar.pdf",
+    "3-FINAL notes/History/3.modern history",
+    "3-FINAL notes/History/2.medival history",
+    "3-FINAL notes/History/1.Ancient history",
+    "assests/Neon articles.pdf",
+    "Excalidraw/Tt.excalidraw",
+    "assests/Biology Godfather Neon Books export_compressed (1).pdf",
+    "Untitled",
+    "3-FINAL notes/Geography",
+    "resoures/Untitled.canvas"
+  ]
+}

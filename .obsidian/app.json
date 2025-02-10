@@ -40,7 +40,8 @@
     "highlightr-plugin:Red",
     "highlightr-plugin:Yellow"
   ],
-  "readableLineLength": false,
+  "readableLineLength": true,
   "focusNewTab": true,
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "strictLineBreaks": false
 }

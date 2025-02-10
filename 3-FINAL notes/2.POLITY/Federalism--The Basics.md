@@ -35,5 +35,3 @@ In a federal system, the central government typically handles matters that affec
 
 **Summary:**
 Federalism is a system of government that aims to balance power between a central government and smaller local governments. It seeks to ensure representation and governance at both the national and local levels, allowing for a more tailored approach to the diverse needs of a country's population.
-
-I hope this explanation helps clarify the concept of federalism! If you have any more questions or would like to dive deeper into any aspect of federal systems, feel free to ask. 😊

@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "797fd585651de0ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "924bf45891a3ff77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a3a14bfcf0ed966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-FINAL notes/History/1.Ancient history/Aryans & The Vedic Ages (1500 - 600 BC).md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Aryans & The Vedic Ages (1500 - 600 BC)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c978b5a265a67d5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "79f2292e19f76eed",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "54f4aa28eaee58fb",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Conflict",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "98d41bce3de0598d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "e42c2f9bc69ed4ed",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "bf9addba67daa912",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fb296f1827c827ac",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "3-FINAL notes/1.BIOLOGY/1. what is biology!!.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "95abdd373f89bceb",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Vvhj.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "fb27b31f1ae48f86",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "1-Daily/2025-01-26.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "a2116b413225d808",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "61eb006e36d617a0",
+        "type": "leaf",
+        "state": {
+          "type": "timer-view",
+          "state": {},
+          "icon": "timer",
+          "title": "Timer"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "excel:Create Excel File": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "2a3a14bfcf0ed966",
+  "lastOpenFiles": [
+    "3-FINAL notes/History/1.Ancient history/Pre-Mauryan Age.md",
+    "1-Daily/2025-02-06.md",
+    "3-FINAL notes/History/1.Ancient history/Periods of HISTORY.md",
+    "3-FINAL notes/History/1.Ancient history/Aryans & The Vedic Ages (1500 - 600 BC).md",
+    "3-FINAL notes/History/1.Ancient history/Indus Valley Civilization.md",
+    "3-FINAL notes/History/1.Ancient history/Ancient history of India.md",
+    "1-Daily/2025-02-05.md",
+    "3-FINAL notes/History/1.Ancient history/The Vedic Ages (1500BC-600BC).md",
+    "3-FINAL notes/History/Index of HiSTORY.md",
+    "3-FINAL notes/History/1.Ancient history/Aryans.md",
+    "1-Daily/2025-02-04.md",
+    "1-Daily/2025-02-02.md",
+    "1-Daily/2025-01-31.md",
+    "3-FINAL notes/History/1.Ancient history/Indus Valley Civilization (conflict 2025-01-31-12-00-04).md",
+    "3-FINAL notes/1.BIOLOGY/1. what is biology!!.md",
+    "3-FINAL notes/english/wrong spelled word by me.md",
+    "3-FINAL notes/History/1.Ancient history/Vedic Civilization.md",
+    "assests/Pasted image 20250126195108.png",
+    "1-Daily/2025-01-29.md",
+    "assests/Pasted image 20250126195338.png",
+    "3-FINAL notes/History/1.Introduction.md",
+    "1-Daily/2025-01-28.md",
+    "assests/Screenshot_20250127-114145~4.jpeg",
+    "assests/Screenshot_20250127-113256~3.jpeg",
+    "assests/Screenshot_20250126-181702.jpeg",
+    "1-Daily/2025-01-27.md",
+    "tags/tags.md",
+    "1-Daily/2025-01-26.md",
+    "assests/Pasted image 20250127123008.png",
+    "assests/Pasted image 20250127122456.png",
+    "assests/Pasted image 20250127122052.png",
+    "assests/Pasted image 20250127121504.png",
+    "assests/Pasted image 20250127120939.png",
+    "3-FINAL notes/History/1.Ancient history/Screenshot_20250126-182905~2.jpeg.md",
+    "1-Daily/2025-01-25.md",
+    "Untitled.canvas",
+    "Custom checkbox.md",
+    "assests/Tilly_Bagshawe_Sidney_Sheldon_-_The_Phoenix.epub",
+    "assests/Ancient Indian Calendar.pdf",
+    "3-FINAL notes/History/3.modern history",
+    "3-FINAL notes/History/2.medival history",
+    "3-FINAL notes/History/1.Ancient history",
+    "assests/Neon articles.pdf",
+    "Excalidraw/Tt.excalidraw",
+    "assests/Biology Godfather Neon Books export_compressed (1).pdf",
+    "Untitled",
+    "3-FINAL notes/Geography",
+    "resoures/Untitled.canvas"
+  ]
+}

@@ -1,0 +1,108 @@
+Lucent-Book [[Pasted image 20250126195108.png|image1]] [[Pasted image 20250126195338.png|image2]] 
+
+---
+![](https://i.imgur.com/fy36M0p.png)
+- Discovery of Stone age civilization first time in India begins at 1863 AD.
+# PRE-HISTORIC:- 
+The early man in India used tools of stone roughly dressed by crude clipping. This period is therefore, known as the [[Pasted image 20250122222551.png|Stone Age]], which has been divided into   :=
+1. The Palaeolithic or Old Stone Age 
+2. The Mesolithic or Middle Stone Age 
+3. The Neolithic or New Stone Age
+![](https://i.imgur.com/yakSmqx.png)
+-  The three-age system, divided into stone, bronze and iron from the collection of Copenhagen Museum was coined by - Thomson
+![](https://i.imgur.com/o7PXEt8.png)
+4th stage [[Pasted image 20250122224328.png |image]] 
+
+## Paleolithic  :- 👇👇👇
+- The Palaeolithic culture of India developed in the **pleistocene period** or the Ice age.
+- *Robert Bruce Foote* was the first to discover a palaeolithic site (Pallavaram, Madras) in India by Discovering pre-stone age tools.
+- ![](https://i.imgur.com/c8t8CjR.png)
+- [[Pasted image 20250122225725.png |Homo Sapiens]] first appeared towards the end of this phase.
+- sabse phle Rock shelter Upper paleolithic se hui hai
+- ![](https://i.imgur.com/jVWCljf.png)
+- Their tools were mostly made of '**quartzite**', thus, they are also called **Quartzite men**.
+- ![](https://i.imgur.com/mJ4TXeP.png)Attirampakkam(tamilnadu) & Kurnool (andhrapradesh) is the site of Paleolithic age 
+  Isampur is center of stone tool manufacture located in Karnataka (Gulbarg dist.)
+- ![](https://i.imgur.com/nf4y5jP.png)and 'Fire' was discovered by Java-Human.
+## Mesolethic :- 👇👇👇
+![](https://i.imgur.com/VXWwWtM.png)
+- The people of **Palaeolithic** & **Mesolithic ages** practiced Painting. **Bhimbetka** in **Madhya Pradesh** is a striking site of Pre-historic painting of **Mesolithic age**.
+- ==Bone ornaments== in the Mesolithic context in India have been obtained from - **Sarai Nahar Rai and Mahadaha**
+## Neolithic  :-
+- The Neolithic settlers were the earliest farming communities. They produced ragi and horse-gram (*kulathi*). They domesticated cattle, sheeps and goats. They wove cotton and wool to make clothes.
+- 
+ ![](https://i.imgur.com/9edQRSI.png)
+- The people of this age are characterised by the use of **polished stone tools.** They particularly used stone axes.
+- Hand made pottery and use of potter wheel first appeared during the Neolithic age.
+- The wheel was used in the Neolithic period.
+
+**<u>Neolithic sites:-</u>** 👇👇👇
+![](https://i.imgur.com/twhFWI5.jpeg)
+- **Mehargarh** in **Baluchistan (Pakistan)** is the oldest Neolithic site in India sub-continent (7000 BC).
+- The earliest evidence of **paddy cultivation** in India has been obtained from the village of Lahuradeva in around 7000 B.C. 
+- The earliest plant to be domesticated was **Barley**.
+- **Koldihwa** in **UP** revealed a three fold cultural sequence: <u>Neolithic</u> , <u>Chalcolithic</u> and <u>iron age.</u>
+![](https://i.imgur.com/hhC5XOW.png)
+## Chalcolithic Age  :-
+- **Chalcolithic** culture refers to the Stone-Copper Phase. People also used Hand-axes and other objects made up of Copperware.
+- The Copper, Bronze and Iron metals were used by humans in this period.
+![](https://i.imgur.com/7ctw4uW.png)
+- Practices "<u>**Urn**</u>" burials.  (Hindu ishi tarah ANTIM-SANSKAR Karte hai!!!!!!)
+- They did not know about  <u>*horses & bricks* </u>
+- Pottery -- **BLACK & RED ware, OCHRE (matmeila)** color pottery.
+- Some important *Chalcolithic Cultures* in India?  
+Ans :- **Ahara Banas (Rajasthan), Kayatha culture (Rajasthan), Malwa culture (Gujarat), Swalda culture (Maharashtra), Jorwe culture (Maharashtra)**.
+- **The Malwa ware** is considered the richest among the Chalcolithic ceramics.
+- During chalcolithic age how did people of Maharshtra bury the dead bodies?   Ans :- **North – South direction**
+#### IMAGE  of  SITES 
+![](https://i.imgur.com/grxIEML.png)![](https://i.imgur.com/AUeucy0.png)
+![](https://i.imgur.com/R6UIZ1U.png)
+
+## One liners (from MCQ) :-
+1. The word "India" that came from the Indus is called **Sindhu** in Sanskrit.
+2. Megalith (Grave/memorial) that were the stone pieces set in a circular shape around the grave :- **Cairn Circle**
+3. The practice of erecting Megaliths began about: **3000 years ago.**
+4. A celt in Neolithic period is : **A tool**
+5.  First Rice evidence: <u>Koldihwa</u> (**Uttar Prades**h)
+6. The skull of  [[Pasted image 20250122225725.png |Homo erectus]]  was found in: <u>Hathnora</u> (**Madhya Pradesh** near Narmada)
+7. <mark style="background: #ABF7F7A6;">Gauri Gun Dam ( site)</mark>  :- Telangana
+8. Three human skeletons in a single grave were recovered at - Damdama (Pratapgarh, UP) 
+9. Handymen are said to be the first tool makers.
+10. Human skeletons in India have been found from the Middle Stone Age.
+11. Fossils of Ramapithecus have been found from the Shivalik region. 
+12. Man learnt the art of cloth making in the New Stone Age.
+13. *Archibold Carllelyle* was the one who discovered cave/rock shelters 1st time in India.
+14. *V.S. Wakankar* discovered Bhimbetka's cave/Rock shelter.
+> [!NOTE]-
+> ![[_Ancient History Printable_pdf.pdf]]
+
+
+# Proto-HISTORIC  :- 
+
+^1cd770
+
+- The art of writing developed (written evidence available) during this period, but it has not so far been possible to decipher the script of this period.
+- Both [[Ancient history of India#^3220db|literary]] and [[Ancient history of India#^79f24b| archelogy ]] are available to know the history of this period.
+- The [[Indus Valley Civilization|Harappan civilization]] and [[Aryan]] is existed in this period.
+- The Krishna-Lohit Pottery Culture belongs to this period.
+# Historical period 
+- The period in which written evidence is available and in which man was civilized is known as historical period.
+- The period after about 600 BC is known as "historical period".
+
+
+# 4 Oldest civilization
+1. ##### Mesopotamia ^66a60e
+	- **Period**: Approximately 3500 BC to 1900 BC.
+	- ![](https://i.imgur.com/xgF3K9X.png)
+	- **Key Contributions**: The Sumerians, who were part of this civilization, developed one of the earliest writing systems known as cuneiform, advanced mathematics, and urban planning. They are credited with significant inventions such as the wheel and irrigation system
+2. ##### Ancient Egypt ^a42efa
+	- **Period**: Around 3100 BC to 30 BC
+	- ![](https://i.imgur.com/9KK27fm.png)
+3. ##### [[Indus Valley Civilization]]
+	- **Period**: Approximately 2500 BC to 1900 BC.
+	- **Location**: Present-day Pakistan and northwest India, primarily along the Indus River.
+	- **Key Contributions**: This civilization is noted for its advanced urban planning, including grid layouts for cities like Mohenjo-Daro and Harappa, sophisticated drainage systems, and a unique script that remains undeciphered
+4. ##### Ancient China ^1491f9
+	- **Period**: Starting around 2000 BC.
+	- ![](https://i.imgur.com/LQEkSJv.png)
+	- **Key Contributions**: Ancient China is recognized for its long-lasting cultural continuity and innovations in philosophy, literature, art, and technology. The Xia dynasty is often cited as the first dynasty in traditional Chinese historiography

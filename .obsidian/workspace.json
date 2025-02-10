@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bf65aa6711b1bb61",
+        "id": "bbec2e3b2eb8222a",
         "type": "tabs",
         "children": [
           {
-            "id": "2eccea227d41f1e5",
+            "id": "e62930e3d179e06f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Daily/2025-01-18.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "3-FINAL notes/4.Statics GK/Census.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-18"
+              "title": "Census"
             }
           }
         ]
@@ -41,7 +41,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -73,12 +74,37 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "2917f66ed0a9809e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3-FINAL notes/4.Statics GK/Census.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Census"
+            }
+          },
+          {
+            "id": "f2ae3c06c0d87f95",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 247
+    "width": 275
   },
   "right": {
     "id": "3e938056f8364353",
@@ -87,6 +113,7 @@
       {
         "id": "73c043d63c1e0181",
         "type": "tabs",
+        "dimension": 31.868131868131865,
         "children": [
           {
             "id": "c60cf42668d65112",
@@ -97,12 +124,24 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "57bd5440e742e81d",
+            "type": "leaf",
+            "state": {
+              "type": "workbench-items",
+              "state": {},
+              "icon": "dice",
+              "title": "Pomo Workbench"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "dd5e28846e80a478",
         "type": "tabs",
+        "dimension": 68.13186813186813,
         "children": [
           {
             "id": "cd104836c5762107",
@@ -110,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Daily/2025-01-12.md",
+                "file": "3-FINAL notes/History/1.Ancient history/Indus Valley Civilization.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-01-12"
+              "title": "Backlinks for Indus Valley Civilization"
             }
           },
           {
@@ -129,12 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Daily/2025-01-12.md",
+                "file": "3-FINAL notes/History/1.Ancient history/Indus Valley Civilization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-01-12"
+              "title": "Outgoing links from Indus Valley Civilization"
             }
           },
           {
@@ -144,40 +183,21 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "2917f66ed0a9809e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "1-Daily/2025-01-12.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 2025-01-12"
-            }
-          },
-          {
-            "id": "70d99da7de030d60",
-            "type": "leaf",
-            "state": {
-              "type": "timer-view",
-              "state": {},
-              "icon": "timer",
-              "title": "Timer"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 267
+    "width": 278,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,51 +207,63 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "audio-recorder:Start/stop recording": false,
       "obsidian-git:Open Git source control": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
       "smart-random-note:Open Random Note from Search": false,
       "excel:Create Excel File": false,
-      "pomodoro-timer:Toggle timer panel": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-flexible-pomo:Start Pomodoro": false
     }
   },
-  "active": "2eccea227d41f1e5",
+  "active": "e62930e3d179e06f",
   "lastOpenFiles": [
-    "1-Daily/2025-01-19.md",
-    "1-Daily/2025-01-17.md",
-    "1-Daily/2025-01-16.md",
-    "1-Daily/2025-01-14.md",
-    "1-Daily/2025-01-15.md",
-    "1-Daily/2025-01-13.md",
-    "subjects lec-Log/English.md",
-    "1-Daily/2025-01-12.md",
-    "1-Daily/2025-01-10.md",
-    "1-Daily/2025-01-11.md",
-    "tags/tags.md",
-    "tags",
-    "COUNTDOWN.md",
-    "template/daily note template.md",
-    "1-Daily/2025-01-07.md",
-    "1-Daily/2025-01-08.md",
+    "3-FINAL notes/4.Statics GK/Census.md",
+    "1-Daily/2025-02-10.md",
+    "1-Daily/2025-02-09.md",
     "3-FINAL notes/1.BIOLOGY/1. what is biology!!.md",
-    "1-daily notes/2025-01-11.md",
-    "1-daily notes",
+    "1-Daily/2025-02-07.md",
+    "1-Daily/2025-02-08.md",
+    "assests/Recording 20250209102552.m4a",
+    "assests/Recording 20250209102534.m4a",
+    "assests/Recording 20250209102521.m4a",
+    "assests/Recording 20250209102507.m4a",
+    "assests/Recording 20250209102444.m4a",
+    "3-FINAL notes/History/1.Ancient history/Indus Valley Civilization.md",
+    "3-FINAL notes/History/1.Ancient history/Pre-Mauryan Age.md",
+    "3-FINAL notes/History/Index of HiSTORY.md",
+    "3-FINAL notes/History/1.Ancient history/Aryans & The Vedic Ages (1500 - 600 BC).md",
+    "3-FINAL notes/History/1.Ancient history/Periods of HISTORY.md",
+    "3-FINAL notes/History/1.Ancient history/Ancient history of India.md",
+    "3-FINAL notes/1.BIOLOGY/4. CELL STRUCTURE ➡ Cytology.md",
+    "3-FINAL notes/1.BIOLOGY/3. Taxonomy !!!!!.md",
+    "3-FINAL notes/1.BIOLOGY/2. universe &  Evolution !!!!.md",
+    "3-FINAL notes/2.POLITY/1. introduction.md",
+    "3-FINAL notes/2.POLITY/2. Constitution development.md",
+    "3-FINAL notes/History/randome info.md",
     "Custom checkbox.md",
-    "1-Daily/2025-01-03.md",
-    "1-Daily/2025-01-04.md",
-    "1-Daily/2025-01-05.md",
-    "1-Daily/2025-01-06.md",
+    "3-FINAL notes/History/1.Ancient history/Aryan.md",
+    "1-Daily/2025-02-04.md",
     "subjects lec-Log/Math.md",
     "subjects lec-Log/reasoning.md",
-    "3-FINAL notes/1.BIOLOGY/4. CELL STRUCTURE ➡ Cytology.md",
-    "excel",
-    "1-daily notes/2025-01-09.md",
-    "subjects lec-Log",
-    "assests/Pasted image 20241228151134.png",
-    "assests/Pasted image 20241227210309.png",
-    "assests/Pasted image 20241228102327.png",
-    "assests/Pasted image 20241229100708.png",
-    "assests/Pasted image 20241229092353.png",
-    "assests/Pasted image 20241229091141.png",
-    "assests/Pasted image 20241229090724.png"
+    "subjects lec-Log/English.md",
+    "3-FINAL notes/2.POLITY/4. Salient features of Indian constitution.md",
+    "3-FINAL notes/2.POLITY/5. preamble or Prastavna.md",
+    "3-FINAL notes/english",
+    "assests/Screenshot_20241125-154106.jpeg",
+    "3-FINAL notes/Statics GK",
+    "assests/Pasted image 20250127120939.png",
+    "assests/Screenshot_20250127-113256~3.jpeg",
+    "assests/Screenshot_20250127-114145~4.jpeg",
+    "assests/Pasted image 20250127123008.png",
+    "assests/Pasted image 20250126195338.png",
+    "assests/Pasted image 20250126195108.png",
+    "assests/Pasted image 20250121235437.png",
+    "assests/xgfg.pdf",
+    "3-FINAL notes/History/1.Ancient history/Indus Valley Civilization.html",
+    "assests/_Ancient History Printable_pdf.pdf",
+    "assests/Pasted image 20250122225725.png",
+    "assests/Pasted image 20250122224328.png"
   ]
 }

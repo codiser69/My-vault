@@ -1,25 +1,25 @@
 {
   "main": {
-    "id": "797fd585651de0ef",
+    "id": "a33e041629f074cf",
     "type": "split",
     "children": [
       {
-        "id": "3c741345c67ac00a",
+        "id": "e3bffe6cb5be7078",
         "type": "tabs",
         "children": [
           {
-            "id": "53315df19701339c",
+            "id": "15de5406e130edc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-FINAL notes/2.POLITY/6. Union State and territories.md",
+                "file": "3-FINAL notes/4.Statics GK/Census.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Union State and territories"
+              "title": "Census"
             }
           }
         ]
@@ -28,11 +28,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1c978b5a265a67d5",
+    "id": "ff3c61775d7464f9",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "79f2292e19f76eed",
+        "id": "8ffd01e4745267d5",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -44,13 +44,13 @@
         }
       },
       {
-        "id": "54f4aa28eaee58fb",
+        "id": "f6db8c42d20709d3",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "Hindi",
-            "matchingCase": true,
+            "query": "",
+            "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -61,20 +61,22 @@
         }
       },
       {
-        "id": "98d41bce3de0598d",
+        "id": "3713fdbc3bb1f601",
         "type": "leaf",
         "state": {
           "type": "tag",
           "state": {
             "sortOrder": "frequency",
-            "useHierarchy": true
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-tags",
           "title": "Tags"
         }
       },
       {
-        "id": "e42c2f9bc69ed4ed",
+        "id": "74314ac939f33775",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -87,22 +89,22 @@
     "currentTab": 0
   },
   "right": {
-    "id": "bf9addba67daa912",
+    "id": "fe03b752171ef1fa",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "fb296f1827c827ac",
+        "id": "0936b9b28533a5ad",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "3-FINAL notes/1.BIOLOGY/1. what is biology!!.md",
+            "file": "1-Daily/2025-02-07.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
-            "backlinkCollapsed": false,
+            "backlinkCollapsed": true,
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
@@ -110,12 +112,12 @@
         }
       },
       {
-        "id": "95abdd373f89bceb",
+        "id": "f0b292df66b53350",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Vvhj.md",
+            "file": "3-FINAL notes/2.POLITY/CLASS 6TH ncert.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -124,19 +126,22 @@
         }
       },
       {
-        "id": "fb27b31f1ae48f86",
+        "id": "37759160d474ce1a",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Vvhj.md"
+            "file": "3-FINAL notes/4.Statics GK/Census.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-list",
           "title": "Outline"
         }
       },
       {
-        "id": "a2116b413225d808",
+        "id": "a22241103ed699f4",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -146,71 +151,51 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
-      "pomodoro-timer:Toggle timer panel": false,
-      "excel:Create Excel File": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": true,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
       "smart-random-note:Open Random Note from Search": false,
+      "excel:Create Excel File": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "53315df19701339c",
+  "active": "15de5406e130edc2",
   "lastOpenFiles": [
-    "3-FINAL notes/1.BIOLOGY/5.Tissue.md",
-    "1-Daily/2025-01-17.md",
-    "1-Daily/2025-01-18.md",
-    "1-Daily/2025-01-14.md",
-    "1-Daily/2025-01-13.md",
-    "1-Daily/2025-01-12.md",
-    "1-Daily/2025-01-11.md",
-    "tags/tags.md",
-    "3-FINAL notes/2.POLITY/3. Making Of constitution.md",
-    "COUNTDOWN.md",
-    "subjects lec-Log/English.md",
-    "1-daily notes/2025-01-10.md",
-    "1-daily notes/2025-01-10 (conflict 2025-01-10-15-51-27).md",
+    "3-FINAL notes/4.Statics GK/Census.md",
+    "3-FINAL notes/3.History/1.Introduction.md",
+    "1-Daily/2025-02-09.md",
+    "3-FINAL notes/3.History/1.Ancient history/Ancient history of India.md",
+    "3-FINAL notes/1.BIOLOGY/2. universe &  Evolution !!!!.md",
     "3-FINAL notes/1.BIOLOGY/1. what is biology!!.md",
-    "1-daily notes/2025-01-07.md",
-    "1-daily notes/2025-01-08.md",
-    "1-daily notes/2025-01-09.md",
-    "Excalidraw/Drawing 2025-01-10 12.51.11.excalidraw.md",
-    "3-FINAL notes/1.BIOLOGY/4. CELL STRUCTURE ➡ Cytology.md",
-    "assests/Pasted image 20241228102327.png",
-    "Excalidraw/Drawing 2025-01-08 18.08.44.excalidraw.md",
-    "1-daily notes/2025-01-06.md",
-    "1-daily notes/2025-01-01.md",
-    "1-daily notes/2024-12-29.md",
-    "1-daily notes/2024-12-28.md",
-    "1-daily notes/2024-12-27.md",
-    "assests/Pasted image 20241227210309.png",
-    "3-FINAL notes/2.POLITY/Index of Polity.md",
-    "assests/Pasted image 20241226074213.png",
-    "assests/Screenshot_20241125-154106.jpeg",
-    "assests/Tilly_Bagshawe_Sidney_Sheldon_-_The_Phoenix.epub",
-    "Untitled.canvas",
-    "assests/Ancient Indian Calendar.pdf",
-    "assests/Screenshot_20241209-180229~2.jpeg",
-    "3-FINAL notes/History/3.modern history",
-    "3-FINAL notes/History/2.medival history",
-    "3-FINAL notes/History/1.Ancient history",
-    "assests/Screenshot_20241208-233321.jpeg",
-    "assests/Screenshot_20241208-233055.jpeg",
-    "assests/Screenshot_20241208-091225_Obsidian.png",
-    "assests/Screenshot_20241207-155825.jpeg",
-    "assests/Screenshot_20241207-155030.jpeg",
-    "assests/Neon articles.pdf",
-    "Excalidraw/Tt.excalidraw",
-    "assests/Biology Godfather Neon Books export_compressed (1).pdf",
-    "Untitled",
-    "3-FINAL notes/Geography",
-    "resoures/Untitled.canvas"
+    "3-FINAL notes/3.History/1.Ancient history/Aryans & The Vedic Ages (1500 - 600 BC).md",
+    "3-FINAL notes/3.History/1.Ancient history/Periods of HISTORY.md",
+    "assests/Pasted image 20250122224328.png",
+    "assests/Pasted image 20250122222551.png",
+    "assests/Pasted image 20250126195108.png",
+    "3-FINAL notes/3.History/1.Ancient history/Pre-Mauryan Age.md",
+    "3-FINAL notes/3.History/1.Ancient history/Indus Valley Civilization.md",
+    "3-FINAL notes/3.History/1.Ancient history/Jainism.md",
+    "1-Daily/2025-02-08.md",
+    "1-Daily/2025-02-07.md",
+    "3-FINAL notes/Economis/5 - Year Plans.md",
+    "3-FINAL notes/3.History/randome info.md",
+    "3-FINAL notes/3.History/Index of HiSTORY.md",
+    "3-FINAL notes/2.POLITY/CLASS 6TH ncert.md",
+    "3-FINAL notes/2.POLITY/cession of a territory.md",
+    "3-FINAL notes/2.POLITY/8.Fundamental rights.md",
+    "3-FINAL notes/2.POLITY/7.2 Citizenship (extras).md",
+    "3-FINAL notes/2.POLITY/7.1 Citizenship (for SSC).md",
+    "assests/Pasted image 20250121235437.png",
+    "assests/Pasted image 20250121235857.png"
   ]
 }

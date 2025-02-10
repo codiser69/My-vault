@@ -6,11 +6,11 @@
 #MTS
 #NTPC
 #RRB-Group-d
-#pyq-2024
-#pyq-2023
-#pyq-2022
-#pyq-2021
-#pyq-2020
-#pyq-2019
+#pyp-2024
+#pyp-2023
+#pyp-2022
+#pyp-2021
+#pyp-2020
+#pyp-2019
 #bestscore
 #

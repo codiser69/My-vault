@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "path:\"3-FINAL notes/History\"  ",
+      "query": "path:\"3-FINAL notes/3.History\"  ",
       "color": {
         "a": 1,
         "rgb": 13502729
@@ -43,16 +43,23 @@
       }
     },
     {
-      "query": "path:\"1-daily notes\"  ",
+      "query": "path:1-Daily  ",
       "color": {
         "a": 1,
-        "rgb": 15125355
+        "rgb": 12938523
+      }
+    },
+    {
+      "query": "path:\"3-FINAL notes/4.Statics GK\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15522855
       }
     }
   ],
-  "collapse-display": true,
-  "showArrow": false,
-  "textFadeMultiplier": -0.5,
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0.1,
   "nodeSizeMultiplier": 1.12083333333333,
   "lineSizeMultiplier": 2.14166666666667,
   "collapse-forces": true,
@@ -60,6 +67,6 @@
   "repelStrength": 6.97916666666667,
   "linkStrength": 1,
   "linkDistance": 134,
-  "scale": 0.5246372177597458,
-  "close": true
+  "scale": 0.2709369442516115,
+  "close": false
 }

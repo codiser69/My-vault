@@ -1,0 +1,230 @@
+![](https://i.imgur.com/Se6cK2Z.png) 
+# Identity Of Aryans 
+- The term **Aryan**, derived from the Sanskrit word ārya, literally means "of high birth."
+- In the 19th century European scholars used the term Aryan to identify the Indo-European or Indo-Germanic peoples who settled throughout India, Persia (Iran), and Europe thousands of years earlier. 
+misused the term "Aryan" to construct a racial identity, associating it with traits of the [Nordic race](https://www.wikiwand.com/en/articles/Nordic_race).  
+that Aryans were superior to other peoples. This racial use of the term promoted a widespread, but false concept of the existence of an "Aryan race."
+- They are the **1st to use Iron**, so that they can able to cut the shrubs & trees.
+- They were also the authors of significant religious texts, including the *Vedic hymns*, which laid foundational elements for Hinduism and influenced Indian culture profoundly .
+## Original Home of the Aryans
+- The Aryans were a linguistic group of people who spoke an Indo-European language, from which Sanskrit, Latin, Greek, and other languages later emerged.
+- The original homeland of the Aryans is controversial. The most accepted theory is that they migrated from **Central Asia and the Eurasian Steppe** between **2000-1500 BC**, eventually settling in **Eastern Afghanistan, modern Pakistan, and Punjab**.
+    - **<u>Theories of Aryan Origination</u>**:
+        - **Max Muller**: Aryans migrated from **Central Asia** and the Eurasian Steppe.
+        - **Sir William Jones**: Europe was the homeland of Aryans.
+        - **Bal Gangadhar Tilak**: Northern Arctic was the homeland of Aryans.
+        - **Swami Dayananda Saraswati**: Tibet was the original home of Aryans.
+- The **Central Asian theory** is supported by the **Boghazkai Inscription (Turkey)**, which mentions four Vedic Gods: **Indra, Varuna, Mitra, and Nasatya**. 
+## Migration and Settlement
+-  Originally, Aryans seem to have lived in the **steppes stretching from Southern Russia to Central Asia**.
+- A group of them migrated to **Northwest India** and came to be called **Aryans or Indo-Aryans**.
+- They first settled in small groups in the **northwestern lowlands** and the **Punjab plains**, later spreading into the **Indo-Gangetic plains**.
+- The Vedic civilization flourished along the **Saraswati River**.
+- By the **6th century B.C.**, Aryans had conquered all of **North India**, which was known as **Aryavarta**. 
+###  Economic Activities
+- Aryans were primarily a **cattle-keeping tribe**.
+- Apart from **cattle-rearing** and **small-scale cultivation**, they were engaged in many other economic activities, such as:
+    - **Hunting**, **carpentry**, **tanning**, **weaving**, **chariot-making**, and **metal smelting**.
+- The products of these activities were exchanged through **barter trade**, with **cows** being the most favored medium of exchange.
+- The **priests** received cows, horses, and gold ornaments as fees for performing sacrifices.
+- They were skilled at making **chariots**. 
+### Sapta Sindhu – The Land of Seven Rivers
+- The region where the Aryans settled is popularly known as the **land of seven rivers (Sapta Sindhu)**, comprising:
+    - The **Indus River**, its five tributaries (**Jhelum, Chenab, Ravi, Beas, and Sutlej**), and the **Saraswati River**.
+- <mark style="background: #FF5582A6;">Note</mark>:-  The Central Asian theory is also proved by the Boghazkai Inscription (Turkey), which mentions four Vedic Gods : Indra, Varuna, Mitra and Nasatya.
+# Vedic Age ( 1500-600 BC)
+ Vedic Civilization started with the migration of Aryans people in the north - western part of India.![](https://i.imgur.com/besB0Zg.png)
+![](https://i.imgur.com/Ph1R84W.png)
+![](https://i.imgur.com/B4JktnI.png)![](https://i.imgur.com/cxJ6nyR.png)
+# Vedas
+The word Veda comes from the word Vid, means to know or knowledge.
+Vedic texts are divided between Sruti (based on hearing) and Smriti (based on memory).![](https://i.imgur.com/Xsb8S6Y.png)
+*Veda* are divided into **Samhitas.**
+![](https://i.imgur.com/yoevR4u.png)
+## Types of Vedas
+### Rig Veda
+It is the oldest text in the world. Also called 'the first testament of mankind'![](https://i.imgur.com/bJZ0BjZ.png)
+- II to VII are the earliest mandalas, each of which is ascribed to a particular family of Rishi i.e. Gritsamad, Visvamitra, Vamadeva, Atri, Bhardwaja, Vashistha. 
+- VIIIth mandala is ascribed to Kanvas and Angiras. 
+- IXth mandala is the compilation of Soma hymns.
+- the Xth mandala contains the famous Purusha Sukta hymn which explains that the four varnas were born from the mouth, arms, thighs and feet of the **creator Brahma.**
+![](https://i.imgur.com/RMn2qAk.png) 
+Saraswati is the deity river in the Rig Veda.
+### Sama Veda
+- Sama Veda derives its roots from 'saman', which means melodies. It is a collection of melodies. 
+The hyms of the Sama Veda were recited by Udgatri at the Soma sacrifice.
+- It contains Dhrnpad Raga.![](https://i.imgur.com/683SySA.png)
+### Yajur Veda
+![](https://i.imgur.com/12mCEw5.png)
+The beliefs and rituals of non-Aryans are written in it.
+### Atharva Veda
+![](https://i.imgur.com/sLJyhph.png)
+##### School of Philosophy
+![](https://i.imgur.com/7wzQI31.png)
+# Early Vedic Yug (1500-1000 BC)
+![](https://i.imgur.com/qtgAEUG.png)
+Sawaswati River - A mythical River
+![](https://i.imgur.com/cl46bFY.png)
+- Early Vedic people lived in the region of Sapta Sindhu. They had knowledge of about 40 rivers including Yamuna, Saraswati and Ganga. Ocean was mentioned as Samudra, Himalaya as Himvant, Hindu Kush as Munjavants and desert as Dhawa
+- Aryan came into conflict with the indigenous inhabitants called Dasas (earlier branch of Aryan) and Dasyus (Original inhabitants). Dasyuhatya or slaughter of Dasyus is repeatedly mentioned in the Rig Veda.
+
+> **The Dasarajna War (Battle of Ten Kings)**
+> - This battle was fought on the bank of the Parushni river (Ravi). Sudas, the son of Divodas and the Bharata king of Tritsu family won over an alliance of ten tribes (Five Aryan and Five non-Aryans). 
+>  - The battle broke out due to a dispute between Vashistha (priest of Bharatas) and Visvamitra (priest of alliance)![](https://i.imgur.com/aRz1o2t.png)
+#### Society/Economy
+- ⭐Rigvedic Aryans followed a mixed economy consisting of both agriculture and pastoralism
+⭐Pastoralism was their primary occupation while agriculture was secondary.
+⭐They possessed better knowledge in agriculture. Wooden ploughshare is mentioned in Rig Veda. They were acquainted ,with sowing, harvesting, threshing and knew about different seasons.
+- ✨Kinship was the basis of society's structure. People gave their primary loyalty to the tribe, which was called **Jana** or **Vis**.
+✨Vis was divided into grama. When grama clashed with one another, it caused the *Sangrama or war.*
+✨Society was mostly Patriarchal.
+✨Monogamy was prevalent.![](https://i.imgur.com/lB4SjND.png)
+- Cow was the standard unit of exchange. Gold coins like *Nishka*, *Krishna* and *Satmana* were also in use. **Godhuli** was used as a measure of time and **Gavyuti** as measure of distance.
+#### Polity
+- The king or Rajan was the head of the tiibal polity. Although his post was hereditary, we have also some traces of election by the tribal assembly called 'Samiti'.
+Several tribal or clan based assemblies existed such as the Sabha , Samiti, Vidatha and Gana.
+![](https://i.imgur.com/5h77jmn.png)
+The Samiti was the National Assembly of the people, while the Sabha was Council of Elders
+- King was assisted by many functionaries. Most important functionary was the Purohita, the religious advisor of the king, followed by the Senani, the head of the army.
+![](https://i.imgur.com/k313Zfx.png)
+There was no regular or standing army. However, there were groups of infantry and charioteers.
+- There was no regular system of taxation. People gave voluntary offerings to the king, called Bali.
+- Weapons made of stone, wood, bone and metal were used.
+> [!Types of Marriages]-
+>
+> Eight types of marriages were in practice during the Vedic period :
+> 
+>| Type       | Description                                                     |
+>|------------|-----------------------------------------------------------------|
+>| Brahma     | Marriage of a duly dowered girl to a man of the same class.     |
+>| Daiva      | A daughter is given to a sacrificial priest, as a part of his fee.|
+| Arsa       | Giving the girl to a man in exchange for bride-price.           |
+| Prajapatya | The father gives the girl without dowry and without demanding the bride-price. |
+| Gandharva  | Love marriage.                                                  |
+| Asura      | Bride was bought from her father.                               |
+| Rakshasa   | Marriage by capture.                                            |
+| Paishacha  | Marriage by seduction.                                          |
+#### Religious
+- Rigvedic people believed in nature worship and not in erecting temples or idol worship. They performed Yajnas in open areas.
+![](https://i.imgur.com/7EltB22.png)
+**Soma** was considered to be **the God of plants** and an intoxicating drink is named after him.
+The ninth mandala of the **Rig Veda** i.e. '*Soma Mandala*' is attributed to Soma.
+Important female divinities were Aditi and Usha.
+
+> [!Rig Vedic Deities]-
+> 
+>| Deity          | Associated Field                                 |
+>| -------------- | ------------------------------------------------ |
+>| Indra/Purandar | Breaker of Forts (Most Important)                |
+>| Agni           | Fire God                                         |
+| Varuna         | Water God and Upholder of Natural Order          |
+| Surya          | God with Seven-Horse-Driven Chariot              |
+| Savitri        | God of Light to whom Gayatri Mantra is Addressed |
+| Mitra          | Solar God                                        |
+| Pushan         | God of Marriage, Guarded Roads and Cattle        |
+| Vishnu         | One Who Covered Earth in Three Steps (Upakfama)  |
+| Audra          | God of Animals                                   |
+| Dyaus          | Oldest God and Father of the World               |
+| Ashwin/Nastya  | God of Health, Youth, and Immortality            |
+| Sindhu         | River Goddess                                    |
+| Yama           | God of Death                                     |
+| Maruts         | Personified Storm                                |
+| Usha           | Goddess of Dawn                                  |
+| Aditya         | Goddess of Eternity                              |
+|                |                                                  |
+
+> [!Important Rituals]-
+> 
+>| Ritual        | Description                                                                 |
+>|---------------|-----------------------------------------------------------------------------|
+>| Rajasuya      | The king's influence was strengthened by rituals. The king performed this sacrifice, which was supposed to confer supreme power on him. |
+>| Asvamedha     | A king performed the Asvamedha, which meant unquestioned control over the area in which the royal horse ran uninterrupted. |
+| Vajapeya      | A king performed the Vajapeya or the chariot race, in which the royal chariot was made to win the race against his kinsmen. |
+#### Pottery
+![](https://i.imgur.com/5wkzTQI.png)
+# Later Vedic Yug (1000-600 BC)
+also known as PAINTED GREY WARE PHASE.
+![](https://i.imgur.com/UhpFc4D.png)
+
+- Later Vedic texts refer to livers Narmada , Sadanira, Chambal and Vindhya mountain.
+ Later Vedas gave three fold territorial division of India into *Aryavarta* (Nothem lndia), *Madhyadesa* (Central India) and *Dakshinapatha* (Southern India).
+- The expansion towards East is indicated in a legend of *Satapatha Brahmana* i.e. how **Videha Madhava** migrated from the Saraswati region, crossed Sadanira and came to the land of Videha (modem Tirhut).
+#### Agriculture/Economy/Pottery
+- ##### Agriculture ![](https://i.imgur.com/zWj5vJ2.png)
+Manure was known. Wheat, rice, barley, beans and Sesamum were cultivated.
+- ##### Economy   
+	- New occupational group emerged, such as fisherman, washerman, dyers, door-keepers and footmen.
+	- Tin, silver and iron was now known to the people.
+	-  Merchants were organised into Guilds, as indicated by the terms-Ganas (corporations) and Sresthins (aldermen).
+- ##### Pottery
+![](https://i.imgur.com/sIiVM5l.png)
+#### Political organisations
+-  Tribal assemblies lost their importance and royal power increased at their cost.
+![](https://i.imgur.com/ny2tuNn.png)
+-  Formation of large kingdoms, Kingship becanie completely hereditai)'.
+- The term **<u>Rashtra</u>** indicating territory, first appeared in this period.
+- *Taittariya Brahmana* refers to the theory of divine origin of kingship.
+- *Satapatha Brahmana* refers to twelve Ratninas or civil functionaries of the time.Sure! Here's a table summarizing the twelve Ratninas mentioned in the Shatapatha Brahmana:
+> [!Twelve Ratninas]-
+>(Shatapatha Brahmana)
+>
+| Title          | Role                         |
+|----------------|------------------------------|
+| Purohita       | The Priest                   |
+| Mahishi        | Chief Queen                  |
+| Yuvaraja       | Crown Prince                 |
+| Suta/Sarathi   | The Royal Herald/The Charioteer |
+| Bhagadudha     | Tax Collector                |
+| Akshavapa      | Accountant                   |
+| Palagala       | Friend of the King           |
+| Govikarta      | Head of Forest Department    |
+| Senani         | The General                  |
+| Gramani        | Head of the Village          |
+| Kshata         | Gateman/Chamberlain          |
+| Sangrahitri    | Treasurer                    |
+
+- There was development of judiciary. Kings adminjstered the criminal court.
+	- **Serious Crimes**: Certain actions were considered serious crimes and were dealt with harshly, including:
+		-  Killing of an embryo (abortion)
+		-  Homicide (murder)
+		-  Murder of a Brahmin
+		- Stealing of gold
+		-  Drinking sura (intoxicating liquor)  
+	- Treason was a capital offence.
+#### Society
+- The fourfold division of society became more clear. Initially based on occupation , it later became hereditary.
+![](https://i.imgur.com/hy5odSt.png)Shudras- Lowest in the social hierarchy and born to serve the upper three varna.
+- ##### Ashrams
+![](https://i.imgur.com/DhZMbxX.png)The **Ashram system** was formed to attain four purnsharthas (Dharma, Artha, Kama and Moksha).
+Jabala Upanishada gives the earliest reference to four ashramas i.e. the stages of life- Brahmacharya, Grihastha , Vanaprastha and Sanyasa.
+- Position of women declined. Aitareya Brahmana states that daughter is the source of misery while a son is the protector of family. 
+Maitrayani Samhita mentions three evils- liquor, woman and dice. Polygamy became frequent.
+- However, some of the women had got higher education as indicated by the Yajnavalkya-Gargi dialogue in Vrihadarnyaka Upanishada.
+#### Marriage
+![](https://i.imgur.com/5M8UZ4k.png)
+#### Religion/Gods
+![](https://i.imgur.com/JTW91x3.png)
+- Rituals became important in the cult of sacrifice. a 
+- *Prajapati* became the supreme God. *Vishnu* was conceived as the preserver and protector of people.
+- *Pushan*, responsible for well being of cattle, became **the God of Shudras.**
+- Towards the end of the Vedic age, a section of society began to resent the priestly domination.
+> [!16 Sanskaras]-
+>
+| **Sanskara**       | **Description**                                     |
+|--------------------|-----------------------------------------------------|
+| Garbhadhana        | Conception - Ensuring a healthy conception          |
+| Pumsavana          | Fetus Protection - Ensuring the health of the fetus |
+| Simantonnayan      | Parting of the Hair - Well-being of mother and child|
+| Jatakarma          | Birth Ceremony - Celebrating the birth              |
+| Namakaran          | Naming Ceremony - Giving the child a name           |
+| Nishkramana        | First Outing - Child's first exposure to the outside|
+| Annaprashana       | First Feeding - Introduction of solid food          |
+| Chudakarma         | Mundan or First Haircut - Symbolizing community entry|
+| Kamachhedana       | Ear Piercing - For health and ornamentation         |
+| Vidyarmbha         | Beginning of Education - Start of formal education  |
+| Upanayana          | Sacred Thread Ceremony - Entry to formal education  |
+| Vedarambha         | Beginning of Vedic Studies - Start of Vedic studies |
+| Samavaratana       | Graduation - Completion of education                |
+| Vivaha             | Marriage - Wedding ceremony                         |
+| Vanprastha         | Retirement - Preparing for spiritual pursuits       |
+| Antyesti           | Funeral Rites - Last rites after death              |

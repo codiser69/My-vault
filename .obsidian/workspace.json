@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bbec2e3b2eb8222a",
+        "id": "1ddca46b99652722",
         "type": "tabs",
         "children": [
           {
-            "id": "e62930e3d179e06f",
+            "id": "990f3a81ab4465e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -100,7 +100,8 @@
               "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -213,14 +214,16 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "smart-random-note:Open Random Note from Search": false,
       "excel:Create Excel File": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-flexible-pomo:Start Pomodoro": false
+      "obsidian-flexible-pomo:Start Pomodoro": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "e62930e3d179e06f",
+  "active": "990f3a81ab4465e7",
   "lastOpenFiles": [
-    "3-FINAL notes/4.Statics GK/Census.md",
+    "1-Daily/2025-02-11.md",
     "1-Daily/2025-02-10.md",
+    "3-FINAL notes/4.Statics GK/Census.md",
     "1-Daily/2025-02-09.md",
     "3-FINAL notes/1.BIOLOGY/1. what is biology!!.md",
     "1-Daily/2025-02-07.md",
@@ -249,7 +252,6 @@
     "subjects lec-Log/reasoning.md",
     "subjects lec-Log/English.md",
     "3-FINAL notes/2.POLITY/4. Salient features of Indian constitution.md",
-    "3-FINAL notes/2.POLITY/5. preamble or Prastavna.md",
     "3-FINAL notes/english",
     "assests/Screenshot_20241125-154106.jpeg",
     "3-FINAL notes/Statics GK",

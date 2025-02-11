@@ -113,6 +113,8 @@ It is the biggest source of comprehensive data on:
 It is an important indicator to measure the extent of **prevailing equity between males and females** at a given point of time.
 ![](https://i.imgur.com/I0vshXx.png)
 ![](https://i.imgur.com/PuaoVVv.png)
+<mark style="background: #FFB86CA6;">Highest sex ratio in state</mark> Kerala (1084) > TN (996) > Andhra Pradesh (993)
+<mark style="background: #FFB86CA6;">Lowest sex ratio in state</mark> Haryana (879) < Sikkim (890) < Punjab (895)
 ![](https://i.imgur.com/NTviUfS.png)
 ![](https://i.imgur.com/KDICkec.png)
 

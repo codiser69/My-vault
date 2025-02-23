@@ -26,10 +26,12 @@
             "id": "8c6d79888483a847",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "excel-view",
+              "state": {
+                "file": "subjects lec-Log/reasoning.md"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "reasoning"
             }
           }
         ],
@@ -231,6 +233,7 @@
   },
   "active": "8c6d79888483a847",
   "lastOpenFiles": [
+    "1-Daily/2025-02-23.md",
     "1-Daily/2025-02-21.md",
     "subjects lec-Log/reasoning.md",
     "1-Daily/2025-02-20.md",
@@ -263,7 +266,6 @@
     "3-FINAL notes/1.BIOLOGY/4. CELL STRUCTURE ➡ Cytology.md",
     "3-FINAL notes/1.BIOLOGY/3. Taxonomy !!!!!.md",
     "3-FINAL notes/1.BIOLOGY/2. universe &  Evolution !!!!.md",
-    "3-FINAL notes/2.POLITY/1. introduction.md",
     "3-FINAL notes/english",
     "assests/Screenshot_20241125-154106.jpeg",
     "3-FINAL notes/Statics GK",

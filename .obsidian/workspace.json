@@ -26,15 +26,12 @@
             "id": "8c6d79888483a847",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excel-view",
               "state": {
-                "file": "1-Daily/2025-03-06.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "subjects lec-Log/reasoning.md"
               },
               "icon": "lucide-file",
-              "title": "2025-03-06"
+              "title": "reasoning"
             }
           }
         ],
@@ -137,18 +134,18 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
-            "id": "57bd5440e742e81d",
+            "id": "ad3ab9c4d63ba1e9",
             "type": "leaf",
             "state": {
               "type": "workbench-items",
               "state": {},
-              "icon": "dice",
-              "title": "Pomo Workbench"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -224,20 +221,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-git:Open Git source control": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "smart-random-note:Open Random Note from Search": false,
       "excel:Create Excel File": false,
-      "obsidian-flexible-pomo:Start Pomodoro": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "omnisearch:Omnisearch": false
+      "obsidian-git:Open Git source control": false,
+      "pomodoro-timer:Toggle timer panel": false
     }
   },
   "active": "8c6d79888483a847",
   "lastOpenFiles": [
-    "subjects lec-Log/reasoning.md",
     "1-Daily/2025-03-06.md",
+    "subjects lec-Log/Math.md",
+    "subjects lec-Log/reasoning.md",
     "1-Daily/2025-03-05.md",
     "1-Daily/2025-03-04.md",
     "1-Daily/2025-02-23.md",
@@ -268,7 +265,6 @@
     "3-FINAL notes/History/Index of HiSTORY.md",
     "3-FINAL notes/History/1.Ancient history/Aryans & The Vedic Ages (1500 - 600 BC).md",
     "3-FINAL notes/History/1.Ancient history/Periods of HISTORY.md",
-    "3-FINAL notes/History/1.Ancient history/Ancient history of India.md",
     "3-FINAL notes/english",
     "assests/Screenshot_20241125-154106.jpeg",
     "3-FINAL notes/Statics GK",

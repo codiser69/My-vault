@@ -11,12 +11,15 @@
             "id": "15de5406e130edc2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assests/Pasted image 20241110081553.png"
+                "file": "1-Daily/2025-03-07.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241110081553"
+              "icon": "lucide-file",
+              "title": "2025-03-07"
             }
           }
         ]
@@ -153,8 +156,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pomodoro-timer:Toggle timer panel": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,6 +173,8 @@
   },
   "active": "15de5406e130edc2",
   "lastOpenFiles": [
+    "assests/Pasted image 20241110081553.png",
+    "1-Daily/2025-03-07.md",
     "assests/Pasted image 20241109115633.png",
     "assests/Pasted image 20241109105120.png",
     "assests/Pasted image 20241108140057.png",
@@ -203,7 +208,6 @@
     "3-FINAL notes/3.History/randome info.md",
     "3-FINAL notes/3.History/Index of HiSTORY.md",
     "3-FINAL notes/2.POLITY/CLASS 6TH ncert.md",
-    "3-FINAL notes/2.POLITY/cession of a territory.md",
     "assests/Pasted image 20250121235437.png",
     "assests/Pasted image 20250121235857.png"
   ]

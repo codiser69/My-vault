@@ -12,7 +12,6 @@
   "darlal-switcher-plus",
   "obsidian-imgur-plugin",
   "smart-random-note",
-  "excel",
   "obsidian-shortcut-launcher",
   "tabs",
   "checkbox-sounds",
@@ -21,5 +20,6 @@
   "obsidian-underline",
   "highlightr-plugin",
   "obsidian-git",
-  "pomodoro-timer"
+  "pomodoro-timer",
+  "excel"
 ]

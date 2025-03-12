@@ -11,15 +11,12 @@
             "id": "990f3a81ab4465e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excel-view",
               "state": {
-                "file": "1-Daily/2025-03-10.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "subjects lec-Log/reasoning.md"
               },
               "icon": "lucide-file",
-              "title": "2025-03-10"
+              "title": "reasoning"
             }
           }
         ]
@@ -219,6 +216,8 @@
   },
   "active": "990f3a81ab4465e7",
   "lastOpenFiles": [
+    "1-Daily/2025-03-12.md",
+    "1-Daily/2025-03-10.md",
     "subjects lec-Log/reasoning.md",
     "1-Daily/2025-03-09.md",
     "subjects lec-Log/English.md",
@@ -245,8 +244,6 @@
     "assests/Pasted image 20250121234523.png",
     "assests/Pasted image 20250121123224.png",
     "3-FINAL notes/4.Statics GK/Census.md",
-    "1-Daily/2025-02-11.md",
-    "1-Daily/2025-02-10.md",
     "assests/Recording 20250209102552.m4a",
     "assests/Recording 20250209102534.m4a",
     "assests/Recording 20250209102521.m4a",

@@ -5,6 +5,10 @@
       "path": "1-Daily/2025-03-15.md"
     },
     {
+      "basename": "Math",
+      "path": "subjects lec-Log/Math.md"
+    },
+    {
       "basename": "reasoning",
       "path": "subjects lec-Log/reasoning.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "English",
       "path": "subjects lec-Log/English.md"
-    },
-    {
-      "basename": "Math",
-      "path": "subjects lec-Log/Math.md"
     },
     {
       "basename": "Jainism",

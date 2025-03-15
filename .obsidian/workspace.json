@@ -11,15 +11,10 @@
             "id": "990f3a81ab4465e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Daily/2025-03-15.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-03-15"
+              "title": "New tab"
             }
           }
         ]
@@ -219,13 +214,13 @@
   },
   "active": "990f3a81ab4465e7",
   "lastOpenFiles": [
-    "subjects lec-Log/reasoning.md",
     "1-Daily/2025-03-15.md",
+    "subjects lec-Log/Math.md",
+    "subjects lec-Log/reasoning.md",
     "1-Daily/2025-03-12.md",
     "1-Daily/2025-03-10.md",
     "1-Daily/2025-03-09.md",
     "subjects lec-Log/English.md",
-    "subjects lec-Log/Math.md",
     "3-FINAL notes/3.History/1.Ancient history/Jainism.md",
     "3-FINAL notes/3.History/1.Ancient history/Periods of HISTORY.md",
     "3-FINAL notes/3.History/1.Ancient history/Pre-Mauryan Age.md",

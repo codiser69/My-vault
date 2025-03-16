@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1ddca46b99652722",
+        "id": "8640b49a0adc06cb",
         "type": "tabs",
         "children": [
           {
-            "id": "990f3a81ab4465e7",
+            "id": "e47ec58c857218d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1-Daily/2025-03-16.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-03-16"
             }
           }
         ]
@@ -76,13 +81,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-FINAL notes/2.POLITY/7.1 Citizenship (for SSC).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 7.1 Citizenship (for SSC)"
+              "title": "Outline"
             }
           },
           {
@@ -91,8 +95,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -108,7 +112,7 @@
       {
         "id": "73c043d63c1e0181",
         "type": "tabs",
-        "dimension": 31.868131868131865,
+        "dimension": 44.09340659340659,
         "children": [
           {
             "id": "c60cf42668d65112",
@@ -116,27 +120,16 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "ad3ab9c4d63ba1e9",
-            "type": "leaf",
-            "state": {
-              "type": "workbench-items",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "dd5e28846e80a478",
         "type": "tabs",
-        "dimension": 68.13186813186813,
+        "dimension": 55.90659340659341,
         "children": [
           {
             "id": "cd104836c5762107",
@@ -191,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278,
-    "collapsed": true
+    "width": 278
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,37 +201,38 @@
       "excel:Create Excel File": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "pomodoro-timer:Toggle timer panel": false
+      "pomodoro-timer:Toggle timer panel": false,
+      "obsidian-flexible-pomo:Start Pomodoro": false
     }
   },
-  "active": "990f3a81ab4465e7",
+  "active": "e47ec58c857218d5",
   "lastOpenFiles": [
-    "1-Daily/2025-03-15.md",
-    "subjects lec-Log/Math.md",
-    "subjects lec-Log/reasoning.md",
+    "1-Daily/2025-03-16.md",
+    "1-Daily/2025-02-17.md",
+    "1-Daily/2025-02-11.md",
+    "1-Daily/2025-02-10.md",
+    "1-Daily/2025-02-09.md",
+    "1-Daily/2025-02-08.md",
+    "1-Daily/2025-02-01.md",
+    "1-Daily/2025-01-31.md",
+    "1-Daily/2025-01-27.md",
+    "1-Daily/2025-02-20.md",
+    "1-Daily/2025-03-04.md",
     "1-Daily/2025-03-12.md",
+    "1-Daily/2025-03-15.md",
+    "3-FINAL notes/3.History/1.Ancient history/Pre-Mauryan Age.md",
+    "3-FINAL notes/1.BIOLOGY/1. what is biology!!.md",
+    "tags/tags.md",
+    "subjects lec-Log/reasoning.md",
+    "subjects lec-Log/Math.md",
     "1-Daily/2025-03-10.md",
     "1-Daily/2025-03-09.md",
     "subjects lec-Log/English.md",
     "3-FINAL notes/3.History/1.Ancient history/Jainism.md",
     "3-FINAL notes/3.History/1.Ancient history/Periods of HISTORY.md",
-    "3-FINAL notes/3.History/1.Ancient history/Pre-Mauryan Age.md",
     "1-Daily/2025-03-08.md",
-    "3-FINAL notes/1.BIOLOGY/1. what is biology!!.md",
     "1-Daily/2025-03-07.md",
     "3-FINAL notes/2.POLITY/8.Fundamental rights.md",
-    "3-FINAL notes/Zenglish/cloze test.md",
-    "1-Daily/2025-03-06.md",
-    "1-Daily/2025-03-05.md",
-    "1-Daily/2025-03-04.md",
-    "1-Daily/2025-02-23.md",
-    "1-Daily/2025-02-21.md",
-    "1-Daily/2025-02-20.md",
-    "1-Daily/2025-02-19.md",
-    "1-Daily/2025-02-18.md",
-    "3-FINAL notes/2.POLITY/7.1 Citizenship (for SSC).md",
-    "1-Daily/2025-02-12.md",
-    "3-FINAL notes/2.POLITY/7.2 Citizenship (extras).md",
     "assests/Pasted image 20250121234523.png",
     "assests/Pasted image 20250121123224.png",
     "assests/Recording 20250209102552.m4a",

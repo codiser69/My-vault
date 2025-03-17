@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "English",
+      "path": "subjects lec-Log/English.md"
+    },
+    {
+      "basename": "2025-03-17",
+      "path": "1-Daily/2025-03-17.md"
+    },
+    {
       "basename": "2025-03-16",
       "path": "1-Daily/2025-03-16.md"
+    },
+    {
+      "basename": "Math",
+      "path": "subjects lec-Log/Math.md"
+    },
+    {
+      "basename": "reasoning",
+      "path": "subjects lec-Log/reasoning.md"
     },
     {
       "basename": "2025-02-17",
@@ -65,14 +81,6 @@
       "path": "tags/tags.md"
     },
     {
-      "basename": "reasoning",
-      "path": "subjects lec-Log/reasoning.md"
-    },
-    {
-      "basename": "Math",
-      "path": "subjects lec-Log/Math.md"
-    },
-    {
       "basename": "2025-03-10",
       "path": "1-Daily/2025-03-10.md"
     },
@@ -91,10 +99,6 @@
     {
       "basename": "2025-03-09",
       "path": "1-Daily/2025-03-09.md"
-    },
-    {
-      "basename": "English",
-      "path": "subjects lec-Log/English.md"
     },
     {
       "basename": "Jainism",
@@ -195,10 +199,6 @@
     {
       "basename": "2025-02-12",
       "path": "1-Daily/2025-02-12.md"
-    },
-    {
-      "basename": "7.2 Citizenship (extras)",
-      "path": "3-FINAL notes/2.POLITY/7.2 Citizenship (extras).md"
     }
   ],
   "omittedPaths": [],

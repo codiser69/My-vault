@@ -7,14 +7,14 @@ that Aryans were superior to other peoples. This racial use of the term promoted
 - They are the **1st to use Iron**, so that they can able to cut the shrubs & trees.
 - They were also the authors of significant religious texts, including the *Vedic hymns*, which laid foundational elements for Hinduism and influenced Indian culture profoundly .
 ## Original Home of the Aryans
-- The Aryans were a linguistic group of people who spoke an Indo-European language, from which Sanskrit, Latin, Greek, and other languages later emerged.
 - The original homeland of the Aryans is controversial. The most accepted theory is that they migrated from **Central Asia and the Eurasian Steppe** between **2000-1500 BC**, eventually settling in **Eastern Afghanistan, modern Pakistan, and Punjab**.
     - **<u>Theories of Aryan Origination</u>**:
         - **Max Muller**: Aryans migrated from **Central Asia** and the Eurasian Steppe.
         - **Sir William Jones**: Europe was the homeland of Aryans.
         - **Bal Gangadhar Tilak**: Northern Arctic was the homeland of Aryans.
         - **Swami Dayananda Saraswati**: Tibet was the original home of Aryans.
-- The **Central Asian theory** is supported by the **Boghazkai Inscription (Turkey)**, which mentions four Vedic Gods: **Indra, Varuna, Mitra, and Nasatya**. 
+- The Aryans were a linguistic group of people who spoke an Indo-European language, from which Sanskrit, Latin, Greek, and other languages later emerged.
+- <mark style="background: #FF5582A6;">Note</mark>:- The **Central Asian theory** is supported by the **[[Aryans & The Vedic Ages (1500 - 600 BC)#Vedic Age ( 1500-600 BC)|Boghazkai Inscription (Turkey)]]**, which mentions four Vedic Gods: **Indra, Varuna, Mitra, and Nasatya**. 
 ## Migration and Settlement
 -  Originally, Aryans seem to have lived in the **steppes stretching from Southern Russia to Central Asia**.
 - A group of them migrated to **Northwest India** and came to be called **Aryans or Indo-Aryans**.
@@ -31,34 +31,41 @@ that Aryans were superior to other peoples. This racial use of the term promoted
 ### Sapta Sindhu – The Land of Seven Rivers
 - The region where the Aryans settled is popularly known as the **land of seven rivers (Sapta Sindhu)**, comprising:
     - The **Indus River**, its five tributaries (**Jhelum, Chenab, Ravi, Beas, and Sutlej**), and the **Saraswati River**.
-- <mark style="background: #FF5582A6;">Note</mark>:-  The Central Asian theory is also proved by the Boghazkai Inscription (Turkey), which mentions four Vedic Gods : Indra, Varuna, Mitra and Nasatya.
 # Vedic Age ( 1500-600 BC)
- Vedic Civilization started with the migration of Aryans people in the north - western part of India.![](https://i.imgur.com/besB0Zg.png)
+ Vedic Civilization started with the migration of Aryans people in the North-western part of India.![](https://i.imgur.com/besB0Zg.png)
 ![](https://i.imgur.com/Ph1R84W.png)
 ![](https://i.imgur.com/B4JktnI.png)![](https://i.imgur.com/cxJ6nyR.png)
 # Vedas
 The word Veda comes from the word Vid, means to know or knowledge.
 Vedic texts are divided between Sruti (based on hearing) and Smriti (based on memory).![](https://i.imgur.com/Xsb8S6Y.png)
-*Veda* are divided into **Samhitas.**
-![](https://i.imgur.com/yoevR4u.png)
+- *Veda* are divided into four main collections:
+	1. Rig vedas
+	2. Sama veda
+	3. Yajur veda 
+	4. Atharva veda
 ## Types of Vedas
-### Rig Veda
+1. ### Rig Veda
 It is the oldest text in the world. Also called 'the first testament of mankind'![](https://i.imgur.com/bJZ0BjZ.png)
-- II to VII are the earliest mandalas, each of which is ascribed to a particular family of Rishi i.e. Gritsamad, Visvamitra, Vamadeva, Atri, Bhardwaja, Vashistha. 
-- VIIIth mandala is ascribed to Kanvas and Angiras. 
-- IXth mandala is the compilation of Soma hymns.
-- the Xth mandala contains the famous Purusha Sukta hymn which explains that the four varnas were born from the mouth, arms, thighs and feet of the **creator Brahma.**
-![](https://i.imgur.com/RMn2qAk.png) 
 Saraswati is the deity river in the Rig Veda.
-### Sama Veda
-- Sama Veda derives its roots from 'saman', which means melodies. It is a collection of melodies. 
+> [!mandals]-
+> - II to VII are the earliest mandalas, each of which is ascribed to a particular family of Rishi i.e. Gritsamad, Visvamitra, Vamadeva, Atri, Bhardwaja, Vashistha. 
+> - VIIIth mandala is ascribed to Kanvas and Angiras. 
+> - IXth mandala is the compilation of Soma hymns.
+> - Xth mandala contains the famous Purusha Sukta hymn which explains that the four varnas were born from the mouth, arms, thighs and feet of the **creator Brahma.**
+1. ### Sama Veda
+![](https://i.imgur.com/683SySA.png)
+Sama Veda derives its roots from 'saman', which means melodies. It is a collection of melodies. 
 The hyms of the Sama Veda were recited by Udgatri at the Soma sacrifice.
-- It contains Dhrnpad Raga.![](https://i.imgur.com/683SySA.png)
-### Yajur Veda
+	- It contains Dhrupad Raga.
+1. ### Yajur Veda
 ![](https://i.imgur.com/12mCEw5.png)
 The beliefs and rituals of non-Aryans are written in it.
-### Atharva Veda
+4. ### Atharva Veda
 ![](https://i.imgur.com/sLJyhph.png)
+
+##### Subdivision within types of Vedas
+Each Veda is further subdivided into four parts or types of texts:
+![](https://i.imgur.com/yoevR4u.png)
 ##### School of Philosophy
 ![](https://i.imgur.com/7wzQI31.png)
 # Early Vedic Yug (1500-1000 BC)

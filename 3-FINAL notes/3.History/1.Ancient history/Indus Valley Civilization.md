@@ -101,6 +101,9 @@ Pots were decorated with human figures, plants, animals and geometlical patterns
 Nageshwar site is located in - Saurashtra
 ![](https://i.imgur.com/ZfhcIiX.png)
 ![](https://i.imgur.com/gJk3WNz.png)
+# Kingdoms of the Later Vedic Period
+![](https://i.imgur.com/gLmoco6.png)
+
 # One liners (MCQs)
  - Nearest site near Bolan Pass: **Mehrgarh**
  - Inamgaon is situated on banks of: **Ghod river**

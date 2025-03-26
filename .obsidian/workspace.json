@@ -11,10 +11,15 @@
             "id": "e47ec58c857218d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1-Daily/2025-03-26.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-03-26"
             }
           }
         ]
@@ -205,6 +210,7 @@
   "active": "e47ec58c857218d5",
   "lastOpenFiles": [
     "3-FINAL notes/3.History/1.Ancient history/Pre-Mauryan Age.md",
+    "1-Daily/2025-03-26.md",
     "3-FINAL notes/3.History/1.Ancient history/Indus Valley Civilization.md",
     "3-FINAL notes/3.History/1.Ancient history/Jainism.md",
     "3-FINAL notes/2.POLITY/5. preamble or Prastavna.md",
@@ -229,7 +235,6 @@
     "1-Daily/2025-01-27.md",
     "1-Daily/2025-02-20.md",
     "1-Daily/2025-03-04.md",
-    "1-Daily/2025-03-12.md",
     "assests/Pasted image 20250121234523.png",
     "assests/Pasted image 20250121123224.png",
     "assests/Recording 20250209102552.m4a",

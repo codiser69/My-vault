@@ -93,15 +93,15 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 331
+    "width": 266
   },
   "right": {
     "id": "3e938056f8364353",
@@ -118,11 +118,22 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "898c18a48b4bff16",
+            "type": "leaf",
+            "state": {
+              "type": "workbench-items",
+              "state": {},
+              "icon": "dice",
+              "title": "Pomo Workbench"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "dd5e28846e80a478",
@@ -197,15 +208,16 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "smart-random-note:Open Random Note from Search": false,
-      "excel:Create Excel File": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "pomodoro-timer:Toggle timer panel": false,
+      "excel:Create Excel File": false,
       "obsidian-flexible-pomo:Start Pomodoro": false
     }
   },
   "active": "e47ec58c857218d5",
   "lastOpenFiles": [
+    "1-Daily/2025-03-28.md",
     "1-Daily/2025-03-27.md",
     "3-FINAL notes/3.History/1.Ancient history/Jainism.md",
     "3-FINAL notes/3.History/1.Ancient history/Pre-Mauryan Age.md",
@@ -231,7 +243,6 @@
     "1-Daily/2025-02-08.md",
     "1-Daily/2025-02-01.md",
     "1-Daily/2025-01-31.md",
-    "1-Daily/2025-01-27.md",
     "assests/Pasted image 20250121234523.png",
     "assests/Pasted image 20250121123224.png",
     "assests/Recording 20250209102552.m4a",

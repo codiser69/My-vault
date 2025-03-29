@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-03-30",
+      "path": "1-Daily/2025-03-30.md"
+    },
+    {
       "basename": "Math",
       "path": "subjects lec-Log/Math.md"
+    },
+    {
+      "basename": "reasoning",
+      "path": "subjects lec-Log/reasoning.md"
+    },
+    {
+      "basename": "English",
+      "path": "subjects lec-Log/English.md"
     },
     {
       "basename": "Pre-Mauryan Age",
@@ -53,10 +65,6 @@
       "path": "1-Daily/2025-03-23.md"
     },
     {
-      "basename": "reasoning",
-      "path": "subjects lec-Log/reasoning.md"
-    },
-    {
       "basename": "2025-03-22",
       "path": "1-Daily/2025-03-22.md"
     },
@@ -71,10 +79,6 @@
     {
       "basename": "2025-03-19",
       "path": "1-Daily/2025-03-19.md"
-    },
-    {
-      "basename": "English",
-      "path": "subjects lec-Log/English.md"
     },
     {
       "basename": "Census",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20241109105120",
       "path": "assests/Pasted image 20241109105120.png"
-    },
-    {
-      "basename": "Pasted image 20241108140057",
-      "path": "assests/Pasted image 20241108140057.png"
     }
   ],
   "omittedPaths": [],

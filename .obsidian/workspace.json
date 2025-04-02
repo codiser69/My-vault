@@ -11,10 +11,12 @@
             "id": "e47ec58c857218d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "excel-view",
+              "state": {
+                "file": "subjects lec-Log/Math.md"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Math"
             }
           }
         ]
@@ -215,8 +217,10 @@
   },
   "active": "e47ec58c857218d5",
   "lastOpenFiles": [
-    "1-Daily/2025-03-30.md",
+    "1-Daily/2025-04-02.md",
     "subjects lec-Log/Math.md",
+    "2-Review Notes/discovery and vacancies.md",
+    "1-Daily/2025-03-30.md",
     "subjects lec-Log/reasoning.md",
     "subjects lec-Log/English.md",
     "1-Daily/2025-03-28.md",
@@ -239,8 +243,6 @@
     "1-Daily/2025-02-11.md",
     "1-Daily/2025-02-10.md",
     "1-Daily/2025-02-09.md",
-    "1-Daily/2025-02-08.md",
-    "1-Daily/2025-02-01.md",
     "assests/Pasted image 20250121234523.png",
     "assests/Pasted image 20250121123224.png",
     "assests/Recording 20250209102552.m4a",

@@ -1,5 +1,8 @@
 ![](https://i.imgur.com/Se6cK2Z.png) 
 # Identity Of Aryans 
+
+^0cf681
+
 - The term **Aryan**, derived from the Sanskrit word ārya, literally means "of high birth."
 - In the 19th century European scholars used the term Aryan to identify the Indo-European or Indo-Germanic peoples who settled throughout India, Persia (Iran), and Europe thousands of years earlier. 
 misused the term "Aryan" to construct a racial identity, associating it with traits of the [Nordic race](https://www.wikiwand.com/en/articles/Nordic_race).  

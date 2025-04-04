@@ -27,7 +27,7 @@ The early man in India used tools of stone roughly dressed by crude clipping. Th
 ## Mesolethic :- 👇👇👇
 ![](https://i.imgur.com/VXWwWtM.png)
 - The people of **Palaeolithic** & **Mesolithic ages** practiced Painting. **Bhimbetka** in **Madhya Pradesh** is a striking site of Pre-historic painting of **Mesolithic age**.
-- ==Bone ornaments== in the Mesolithic context in India have been obtained from - **Sarai Nahar Rai and Mahadaha**
+- ==Bone ornaments== in the Mesolithic context in India have been obtained from - **Sarai Nahar Rai and Mahadaha**![[RS Sharma (Class PPTs) export (2).pdf]]
 ## Neolithic  :-
 - The Neolithic settlers were the earliest farming communities. They produced ragi and horse-gram (*kulathi*). They domesticated cattle, sheeps and goats. They wove cotton and wool to make clothes.
 - 
@@ -41,7 +41,7 @@ The early man in India used tools of stone roughly dressed by crude clipping. Th
 - **Mehargarh** in **Baluchistan (Pakistan)** is the oldest Neolithic site in India sub-continent (7000 BC).
 - The earliest evidence of **paddy cultivation** in India has been obtained from the village of Lahuradeva in around 7000 B.C. 
 - The earliest plant to be domesticated was **Barley**.
-- **Koldihwa** in **UP** revealed a three fold cultural sequence: <u>Neolithic</u> , <u>Chalcolithic</u> and <u>iron age.</u>
+- **Koldihwa** in **UP** revealed a three fold cultural sequence: <u>Neolithic</u> , <u>Chalcolithic</u> and <u>iron age.</u> ![[RS Sharma (Class PPTs) export (3).pdf]]
 ![](https://i.imgur.com/hhC5XOW.png)
 ## Chalcolithic Age  :-
 - **Chalcolithic** culture refers to the Stone-Copper Phase. People also used Hand-axes and other objects made up of Copperware.
@@ -53,7 +53,7 @@ The early man in India used tools of stone roughly dressed by crude clipping. Th
 - Some important *Chalcolithic Cultures* in India?  
 Ans :- **Ahara Banas (Rajasthan), Kayatha culture (Rajasthan), Malwa culture (Gujarat), Swalda culture (Maharashtra), Jorwe culture (Maharashtra)**.
 - **The Malwa ware** is considered the richest among the Chalcolithic ceramics.
-- During chalcolithic age how did people of Maharshtra bury the dead bodies?   Ans :- **North – South direction**
+- During chalcolithic age how did people of Maharshtra bury the dead bodies?   Ans :- **North – South direction** ![[RS Sharma (Class PPTs) export (4).pdf]]
 #### IMAGE  of  SITES 
 ![](https://i.imgur.com/grxIEML.png)![](https://i.imgur.com/AUeucy0.png)
 ![](https://i.imgur.com/R6UIZ1U.png)
@@ -83,7 +83,7 @@ Ans :- **Ahara Banas (Rajasthan), Kayatha culture (Rajasthan), Malwa culture (Gu
 
 - The art of writing developed (written evidence available) during this period, but it has not so far been possible to decipher the script of this period.
 - Both [[Ancient history of India#^3220db|literary]] and [[Ancient history of India#^79f24b| archelogy ]] are available to know the history of this period.
-- The [[Indus Valley Civilization|Harappan civilization]] and [[Aryan]] is existed in this period.
+- The [[Indus Valley Civilization|Harappan civilization]] and [[Aryans & The Vedic Ages (1500 - 600 BC)#^0cf681|Aryan]] is existed in this period.
 - The Krishna-Lohit Pottery Culture belongs to this period.
 # Historical period 
 - The period in which written evidence is available and in which man was civilized is known as historical period.

@@ -1,4 +1,5 @@
 Lucent-Book [[Screenshot_20250127-113256~3.jpeg|image1]] [[Pasted image 20250127120939.png|image2]] [[Pasted image 20250127121504.png|image3]] [[Pasted image 20250127122052.png|image4]] [[Pasted image 20250127122456.png|image5]] [[Screenshot_20250127-114145~4.jpeg|image6]] [[Pasted image 20250127123008.png|image7]]
+![[RS Sharma (Class PPTs) export (1).pdf]]
 
 ---
 # Sources of Ancient Indian History 

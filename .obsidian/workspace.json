@@ -11,10 +11,15 @@
             "id": "e47ec58c857218d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3-FINAL notes/3.History/1.Ancient history/5. Jainism.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "5. Jainism"
             }
           }
         ]
@@ -99,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266
+    "width": 337
   },
   "right": {
     "id": "3e938056f8364353",
@@ -215,6 +220,18 @@
   },
   "active": "e47ec58c857218d5",
   "lastOpenFiles": [
+    "1-Daily/2025-04-06.md",
+    "3-FINAL notes/3.History/1.Ancient history/5. Jainism.md",
+    "3-FINAL notes/4.Statics GK/Census.md",
+    "3-FINAL notes/3.History/1.Ancient history/6. Pre-Mauryan Age.md",
+    "3-FINAL notes/3.History/Index of HiSTORY.md",
+    "3-FINAL notes/3.History/1.Introduction.md",
+    "3-FINAL notes/3.History/1.Ancient history/7. Mauryan Empire.md",
+    "3-FINAL notes/3.History/1.Ancient history/4. Ancient history of India.md",
+    "3-FINAL notes/3.History/1.Ancient history/3. Aryans & The Vedic Ages (1500 - 600 BC).md",
+    "3-FINAL notes/3.History/1.Ancient history/2. Indus Valley Civilization.md",
+    "3-FINAL notes/3.History/1.Ancient history/1. Periods of HISTORY.md",
+    "assests/RS Sharma (Class PPTs) export (1).pdf",
     "1-Daily/2025-04-04.md",
     "subjects lec-Log/Math.md",
     "1-Daily/2025-04-03.md",
@@ -225,22 +242,11 @@
     "subjects lec-Log/reasoning.md",
     "1-Daily/2025-03-28.md",
     "1-Daily/2025-03-27.md",
-    "3-FINAL notes/3.History/1.Ancient history/Jainism.md",
-    "3-FINAL notes/3.History/1.Ancient history/Pre-Mauryan Age.md",
-    "3-FINAL notes/3.History/1.Ancient history/Mauryan Empire.md",
     "1-Daily/2025-03-26.md",
-    "3-FINAL notes/3.History/1.Ancient history/Indus Valley Civilization.md",
     "3-FINAL notes/2.POLITY/5. preamble or Prastavna.md",
     "1-Daily/2025-03-25.md",
     "1-Daily/2025-03-22.md",
     "1-Daily/2025-03-21.md",
-    "1-Daily/2025-03-19.md",
-    "3-FINAL notes/4.Statics GK/Census.md",
-    "1-Daily/2025-03-18.md",
-    "1-Daily/2025-03-17.md",
-    "1-Daily/2025-03-16.md",
-    "1-Daily/2025-02-17.md",
-    "1-Daily/2025-02-11.md",
     "assests/Pasted image 20250121234523.png",
     "assests/Pasted image 20250121123224.png",
     "assests/Recording 20250209102552.m4a",
@@ -259,7 +265,6 @@
     "assests/Pasted image 20250126195108.png",
     "assests/Pasted image 20250121235437.png",
     "assests/xgfg.pdf",
-    "3-FINAL notes/History/1.Ancient history/Indus Valley Civilization.html",
-    "assests/_Ancient History Printable_pdf.pdf"
+    "3-FINAL notes/History/1.Ancient history/Indus Valley Civilization.html"
   ]
 }

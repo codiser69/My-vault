@@ -11,15 +11,12 @@
             "id": "e47ec58c857218d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excel-view",
               "state": {
-                "file": "3-FINAL notes/3.History/1.Ancient history/5. Jainism.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "file": "subjects lec-Log/English.md"
               },
               "icon": "lucide-file",
-              "title": "5. Jainism"
+              "title": "English"
             }
           }
         ]
@@ -81,13 +78,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-FINAL notes/3.History/1.Ancient history/Jainism.md",
+                "file": "3-FINAL notes/3.History/1.Ancient history/7. Mauryan Empire.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Jainism"
+              "title": "Outline of 7. Mauryan Empire"
             }
           },
           {
@@ -220,15 +217,16 @@
   },
   "active": "e47ec58c857218d5",
   "lastOpenFiles": [
+    "3-FINAL notes/3.History/1.Ancient history/7. Mauryan Empire.md",
+    "3-FINAL notes/3.History/1.Ancient history/5. Jainism & Buddhism.md",
+    "Pasted image 20250406171439.png",
+    "3-FINAL notes/3.History/1.Ancient history/3. Aryans & The Vedic Ages (1500 - 600 BC).md",
     "1-Daily/2025-04-06.md",
-    "3-FINAL notes/3.History/1.Ancient history/5. Jainism.md",
-    "3-FINAL notes/4.Statics GK/Census.md",
     "3-FINAL notes/3.History/1.Ancient history/6. Pre-Mauryan Age.md",
+    "3-FINAL notes/4.Statics GK/Census.md",
     "3-FINAL notes/3.History/Index of HiSTORY.md",
     "3-FINAL notes/3.History/1.Introduction.md",
-    "3-FINAL notes/3.History/1.Ancient history/7. Mauryan Empire.md",
     "3-FINAL notes/3.History/1.Ancient history/4. Ancient history of India.md",
-    "3-FINAL notes/3.History/1.Ancient history/3. Aryans & The Vedic Ages (1500 - 600 BC).md",
     "3-FINAL notes/3.History/1.Ancient history/2. Indus Valley Civilization.md",
     "3-FINAL notes/3.History/1.Ancient history/1. Periods of HISTORY.md",
     "assests/RS Sharma (Class PPTs) export (1).pdf",
@@ -246,7 +244,6 @@
     "3-FINAL notes/2.POLITY/5. preamble or Prastavna.md",
     "1-Daily/2025-03-25.md",
     "1-Daily/2025-03-22.md",
-    "1-Daily/2025-03-21.md",
     "assests/Pasted image 20250121234523.png",
     "assests/Pasted image 20250121123224.png",
     "assests/Recording 20250209102552.m4a",
@@ -263,7 +260,6 @@
     "assests/Pasted image 20250127123008.png",
     "assests/Pasted image 20250126195338.png",
     "assests/Pasted image 20250126195108.png",
-    "assests/Pasted image 20250121235437.png",
     "assests/xgfg.pdf",
     "3-FINAL notes/History/1.Ancient history/Indus Valley Civilization.html"
   ]

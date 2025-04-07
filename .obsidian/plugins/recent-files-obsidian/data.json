@@ -5,6 +5,10 @@
       "path": "subjects lec-Log/English.md"
     },
     {
+      "basename": "Math",
+      "path": "subjects lec-Log/Math.md"
+    },
+    {
       "basename": "7. Mauryan Empire",
       "path": "3-FINAL notes/3.History/1.Ancient history/7. Mauryan Empire.md"
     },
@@ -63,10 +67,6 @@
     {
       "basename": "2025-04-04",
       "path": "1-Daily/2025-04-04.md"
-    },
-    {
-      "basename": "Math",
-      "path": "subjects lec-Log/Math.md"
     },
     {
       "basename": "Pasted image 20250122224328",

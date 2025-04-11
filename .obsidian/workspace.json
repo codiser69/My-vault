@@ -11,12 +11,15 @@
             "id": "e47ec58c857218d5",
             "type": "leaf",
             "state": {
-              "type": "excel-view",
+              "type": "markdown",
               "state": {
-                "file": "subjects lec-Log/English.md"
+                "file": "1-Daily/2025-04-11.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "English"
+              "title": "2025-04-11"
             }
           }
         ]
@@ -101,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337
+    "width": 260
   },
   "right": {
     "id": "3e938056f8364353",
@@ -215,10 +218,11 @@
       "obsidian-flexible-pomo:Start Pomodoro": false
     }
   },
-  "active": "e47ec58c857218d5",
+  "active": "1ad61ff90b39b1f8",
   "lastOpenFiles": [
-    "subjects lec-Log/Math.md",
     "subjects lec-Log/English.md",
+    "1-Daily/2025-04-11.md",
+    "subjects lec-Log/Math.md",
     "3-FINAL notes/3.History/1.Ancient history/7. Mauryan Empire.md",
     "3-FINAL notes/3.History/1.Ancient history/5. Jainism & Buddhism.md",
     "Pasted image 20250406171439.png",

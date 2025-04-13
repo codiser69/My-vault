@@ -11,15 +11,12 @@
             "id": "e47ec58c857218d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excel-view",
               "state": {
-                "file": "3-FINAL notes/4.Statics GK/Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "subjects lec-Log/English.md"
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "English"
             }
           }
         ]
@@ -196,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278,
-    "collapsed": true
+    "width": 278
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,8 +216,8 @@
   },
   "active": "e47ec58c857218d5",
   "lastOpenFiles": [
+    "3-FINAL notes/4.Statics GK/classical dances.md",
     "1-Daily/2025-04-13.md",
-    "3-FINAL notes/4.Statics GK/Untitled.md",
     "3-FINAL notes/3.History/1.Ancient history/2. Indus Valley Civilization.md",
     "3-FINAL notes/3.History/1.Ancient history/6. Pre-Mauryan Age.md",
     "3-FINAL notes/3.History/1.Ancient history/7. Mauryan Empire.md",

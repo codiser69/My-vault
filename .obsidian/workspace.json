@@ -11,10 +11,15 @@
             "id": "e47ec58c857218d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3-FINAL notes/4.Statics GK/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -99,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260
+    "width": 316
   },
   "right": {
     "id": "3e938056f8364353",
@@ -215,24 +220,28 @@
   },
   "active": "e47ec58c857218d5",
   "lastOpenFiles": [
+    "1-Daily/2025-04-13.md",
+    "3-FINAL notes/4.Statics GK/Untitled.md",
+    "3-FINAL notes/3.History/1.Ancient history/2. Indus Valley Civilization.md",
+    "3-FINAL notes/3.History/1.Ancient history/6. Pre-Mauryan Age.md",
+    "3-FINAL notes/3.History/1.Ancient history/7. Mauryan Empire.md",
+    "3-FINAL notes/3.History/1.Ancient history/1. Periods of HISTORY.md",
+    "3-FINAL notes/3.History/1.Ancient history/3. Aryans & The Vedic Ages (1500 - 600 BC).md",
+    "1-Daily/2025-04-12.md",
+    "subjects lec-Log/English.md",
+    "3-FINAL notes/3.History/1.Ancient history/important granth.pdf",
+    "3-FINAL notes/3.History/1.Ancient history/4. Ancient history of India.md",
+    "3-FINAL notes/3.History/1.Introduction.md",
     "3-FINAL notes/Zenglish/wrong spelled word by me.md",
     "3-FINAL notes/Zenglish/cloze test.md",
     "3-FINAL notes/Zenglish/verb-forms.pdf",
     "1-Daily/2025-04-11.md",
-    "subjects lec-Log/English.md",
     "subjects lec-Log/Math.md",
-    "3-FINAL notes/3.History/1.Ancient history/7. Mauryan Empire.md",
     "3-FINAL notes/3.History/1.Ancient history/5. Jainism & Buddhism.md",
     "Pasted image 20250406171439.png",
-    "3-FINAL notes/3.History/1.Ancient history/3. Aryans & The Vedic Ages (1500 - 600 BC).md",
     "1-Daily/2025-04-06.md",
-    "3-FINAL notes/3.History/1.Ancient history/6. Pre-Mauryan Age.md",
     "3-FINAL notes/4.Statics GK/Census.md",
     "3-FINAL notes/3.History/Index of HiSTORY.md",
-    "3-FINAL notes/3.History/1.Introduction.md",
-    "3-FINAL notes/3.History/1.Ancient history/4. Ancient history of India.md",
-    "3-FINAL notes/3.History/1.Ancient history/2. Indus Valley Civilization.md",
-    "3-FINAL notes/3.History/1.Ancient history/1. Periods of HISTORY.md",
     "assests/RS Sharma (Class PPTs) export (1).pdf",
     "1-Daily/2025-04-04.md",
     "1-Daily/2025-04-03.md",
@@ -241,9 +250,6 @@
     "1-Daily/2025-03-30.md",
     "subjects lec-Log/reasoning.md",
     "1-Daily/2025-03-28.md",
-    "1-Daily/2025-03-27.md",
-    "1-Daily/2025-03-26.md",
-    "3-FINAL notes/2.POLITY/5. preamble or Prastavna.md",
     "assests/Pasted image 20250121234523.png",
     "assests/Pasted image 20250121123224.png",
     "assests/Recording 20250209102552.m4a",
@@ -259,7 +265,6 @@
     "assests/Screenshot_20250127-114145~4.jpeg",
     "assests/Pasted image 20250127123008.png",
     "assests/Pasted image 20250126195338.png",
-    "assests/Pasted image 20250126195108.png",
-    "assests/xgfg.pdf"
+    "assests/Pasted image 20250126195108.png"
   ]
 }
